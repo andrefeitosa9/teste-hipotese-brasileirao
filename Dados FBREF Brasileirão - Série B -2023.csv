@@ -1,0 +1,381 @@
+,Date,Home Team,Score,Away Team
+0,2023-04-14,Guarani,4–1,Avaí
+1,2023-04-15,Vila Nova,2–1,Grêmio Novorizontino
+2,2023-04-15,Sampaio Corrêa,3–3,Atl Goianiense
+3,2023-04-15,Mirassol Futebol Clube,1–0,Chapecoense
+4,2023-04-15,Juventude,1–2,Botafogo (SP)
+5,2023-04-14,Ituano,2–0,Ceará
+6,2023-04-16,Criciúma,2–0,Tombense Futebol Clube
+7,2023-04-16,Londrina,1–0,ABC
+8,2023-04-16,Vitória,3–0,Ponte Preta
+10,2023-04-21,Atl Goianiense,2–1,CRB
+11,2023-04-21,Botafogo (SP),1–0,Sampaio Corrêa
+12,2023-04-22,Tombense Futebol Clube,3–0,Ituano
+13,2023-04-22,Avaí,1–0,Mirassol Futebol Clube
+14,2023-04-22,Grêmio Novorizontino,1–0,Juventude
+15,2023-04-22,Ceará,0–3,Guarani
+16,2023-04-21,Ponte Preta,1–2,Criciúma
+17,2023-04-23,Chapecoense,3–0,Londrina
+18,2023-04-23,ABC,0–3,Vitória
+20,2023-04-28,Criciúma,1–0,Avaí
+21,2023-04-28,Vitória,2–0,Londrina
+22,2023-04-29,Sampaio Corrêa,1–3,Mirassol Futebol Clube
+23,2023-04-29,Botafogo (SP),2–0,CRB
+24,2023-04-29,Chapecoense,1–1,Ponte Preta
+25,2023-04-29,Tombense Futebol Clube,1–1,Atl Goianiense
+26,2023-04-28,Guarani,1–0,Ituano
+27,2023-04-30,Grêmio Novorizontino,0–0,Sport Recife
+28,2023-04-30,ABC,1–2,Ceará
+29,2023-04-30,Vila Nova,1–0,Juventude
+31,2023-05-01,Londrina,1–1,Criciúma
+32,2023-05-02,Ponte Preta,2–0,Botafogo (SP)
+33,2023-05-02,CRB,0–0,Sampaio Corrêa
+34,2023-05-03,Juventude,1–0,Guarani
+35,2023-05-03,Mirassol Futebol Clube,0–2,Grêmio Novorizontino
+36,2023-05-03,Ituano,3–0,ABC
+37,2023-05-02,Atl Goianiense,2–1,Chapecoense
+38,2023-05-03,Avaí,0–3,Vila Nova
+40,2023-05-06,Criciúma,2–1,Ituano
+41,2023-05-06,Mirassol Futebol Clube,1–1,Vila Nova
+42,2023-05-06,Sampaio Corrêa,2–1,Juventude
+43,2023-05-06,Tombense Futebol Clube,0–1,Avaí
+44,2023-05-06,CRB,1–1,ABC
+45,2023-05-06,Chapecoense,1–1,Grêmio Novorizontino
+46,2023-05-05,Botafogo (SP),0–3,Vitória
+47,2023-05-07,Ponte Preta,0–0,Ceará
+48,2023-05-07,Sport Recife,2–0,Guarani
+49,2023-05-08,Atl Goianiense,2–1,Londrina
+51,2023-05-10,Ceará,0–2,Vitória
+52,2023-05-10,Sport Recife,3–2,Tombense Futebol Clube
+54,2023-05-12,Vila Nova,0–0,Criciúma
+55,2023-05-13,Juventude,0–1,Mirassol Futebol Clube
+56,2023-05-13,Guarani,2–0,Sampaio Corrêa
+57,2023-05-13,Grêmio Novorizontino,0–1,CRB
+58,2023-05-13,Ceará,2–0,Tombense Futebol Clube
+59,2023-05-12,Avaí,1–4,Chapecoense
+60,2023-05-14,Londrina,3–0,Ponte Preta
+61,2023-05-14,ABC,1–2,Botafogo (SP)
+62,2023-05-14,Vitória,2–3,Atl Goianiense
+63,2023-05-14,Ituano,1–1,Sport Recife
+65,2023-05-19,Mirassol Futebol Clube,2–0,Vitória
+66,2023-05-19,Tombense Futebol Clube,0–2,Londrina
+67,2023-05-20,Sport Recife,3–0,Botafogo (SP)
+68,2023-05-20,Ituano,0–2,Grêmio Novorizontino
+69,2023-05-20,Sampaio Corrêa,1–0,ABC
+70,2023-05-19,Atl Goianiense,0–0,Avaí
+71,2023-05-21,Chapecoense,0–2,Juventude
+72,2023-05-21,Criciúma,1–2,Ceará
+73,2023-05-21,Ponte Preta,1–1,Guarani
+74,2023-05-21,CRB,0–3,Vila Nova
+76,2023-05-23,Botafogo (SP),1–0,Mirassol Futebol Clube
+77,2023-05-24,Vila Nova,1–0,Ituano
+78,2023-05-24,Londrina,1–3,Ceará
+79,2023-05-24,Juventude,3–0,Atl Goianiense
+80,2023-05-24,Vitória,1–0,CRB
+81,2023-05-23,ABC,1–0,Tombense Futebol Clube
+82,2023-05-23,Grêmio Novorizontino,2–0,Avaí
+83,2023-05-24,Guarani,3–3,Chapecoense
+84,2023-05-24,Criciúma,1–0,Sport Recife
+85,2023-05-24,Sampaio Corrêa,0–0,Ponte Preta
+87,2023-05-27,CRB,1–2,Juventude
+88,2023-05-27,Ituano,3–1,Londrina
+89,2023-05-27,Avaí,1–1,Vitória
+90,2023-05-27,Atl Goianiense,1–1,Botafogo (SP)
+91,2023-05-28,Ponte Preta,1–0,Vila Nova
+92,2023-05-28,Mirassol Futebol Clube,1–0,Criciúma
+93,2023-05-28,Ceará,0–3,Grêmio Novorizontino
+94,2023-05-28,Sport Recife,4–1,ABC
+95,2023-05-28,Tombense Futebol Clube,1–1,Guarani
+96,2023-05-29,Chapecoense,0–1,Sampaio Corrêa
+98,2023-06-02,Botafogo (SP),0–0,Tombense Futebol Clube
+99,2023-06-02,Ceará,2–0,Chapecoense
+100,2023-06-03,Juventude,3–2,Avaí
+101,2023-06-03,ABC,0–1,Grêmio Novorizontino
+102,2023-06-03,Mirassol Futebol Clube,1–0,Ponte Preta
+103,2023-06-03,Vila Nova,3–0,Sampaio Corrêa
+104,2023-06-02,Vitória,3–0,Ituano
+105,2023-06-02,Criciúma,3–0,Atl Goianiense
+106,2023-06-04,Guarani,0–1,CRB
+107,2023-06-04,Londrina,1–2,Sport Recife
+109,2023-06-06,Tombense Futebol Clube,1–2,Vitória
+110,2023-06-06,Chapecoense,0–1,Vila Nova
+111,2023-06-06,Ponte Preta,0–0,ABC
+112,2023-06-07,Grêmio Novorizontino,1–0,Guarani
+113,2023-06-07,Sampaio Corrêa,2–0,Londrina
+114,2023-06-07,Sport Recife,2–1,Avaí
+115,2023-06-06,Botafogo (SP),0–2,Ituano
+116,2023-06-06,Atl Goianiense,0–3,Ceará
+117,2023-06-08,Criciúma,0–1,Juventude
+118,2023-06-07,CRB,2–0,Mirassol Futebol Clube
+120,2023-06-10,Vila Nova,0–0,Guarani
+121,2023-06-10,Grêmio Novorizontino,1–0,Sampaio Corrêa
+122,2023-06-10,Ituano,1–1,Atl Goianiense
+123,2023-06-10,Ceará,1–3,CRB
+124,2023-06-09,ABC,1–1,Chapecoense
+125,2023-06-11,Ponte Preta,1–1,Sport Recife
+126,2023-06-11,Londrina,1–2,Mirassol Futebol Clube
+127,2023-06-11,Avaí,1–1,Botafogo (SP)
+128,2023-06-11,Vitória,0–1,Criciúma
+129,2023-06-11,Juventude,1–2,Tombense Futebol Clube
+131,2023-06-18,Sport Recife,1–0,Vila Nova
+133,2023-06-21,CRB,2–2,Ituano
+134,2023-06-23,Atl Goianiense,1–0,Ponte Preta
+135,2023-06-22,Sport Recife,3–0,Juventude
+136,2023-06-24,Botafogo (SP),0–3,Vila Nova
+137,2023-06-24,Avaí,0–0,Londrina
+138,2023-06-24,Chapecoense,1–1,Criciúma
+139,2023-06-24,Tombense Futebol Clube,1–2,Grêmio Novorizontino
+140,2023-06-25,Mirassol Futebol Clube,3–2,ABC
+141,2023-06-25,Sampaio Corrêa,1–1,Ceará
+142,2023-06-25,Guarani,2–0,Vitória
+144,2023-06-27,Chapecoense,1–1,Sport Recife
+145,2023-06-27,Criciúma,2–1,CRB
+146,2023-06-28,ABC,1–1,Atl Goianiense
+147,2023-06-28,Ceará,0–0,Avaí
+148,2023-06-27,Vila Nova,1–0,Tombense Futebol Clube
+149,2023-06-27,Grêmio Novorizontino,0–1,Botafogo (SP)
+150,2023-06-28,Guarani,2–1,Mirassol Futebol Clube
+151,2023-06-28,Ituano,0–1,Ponte Preta
+152,2023-06-28,Londrina,1–2,Juventude
+153,2023-06-28,Vitória,2–1,Sampaio Corrêa
+155,2023-07-01,Atl Goianiense,1–1,Vila Nova
+156,2023-07-01,Avaí,0–2,ABC
+157,2023-07-01,Sampaio Corrêa,0–2,Criciúma
+158,2023-07-01,CRB,2–1,Londrina
+159,2023-06-30,Tombense Futebol Clube,4–2,Chapecoense
+160,2023-07-02,Juventude,1–0,Vitória
+161,2023-07-02,Sport Recife,2–0,Ceará
+162,2023-07-02,Ponte Preta,1–0,Grêmio Novorizontino
+163,2023-07-03,Mirassol Futebol Clube,0–1,Ituano
+164,2023-07-03,Botafogo (SP),1–0,Guarani
+166,2023-07-05,CRB,2–0,Sport Recife
+168,2023-07-07,Grêmio Novorizontino,2–2,Atl Goianiense
+169,2023-07-08,Guarani,2–1,Londrina
+170,2023-07-08,ABC,0–1,Criciúma
+171,2023-07-08,Ituano,1–1,Juventude
+172,2023-07-08,Avaí,0–1,Ponte Preta
+173,2023-07-08,Tombense Futebol Clube,0–1,Sampaio Corrêa
+174,2023-07-07,Ceará,3–0,Botafogo (SP)
+175,2023-07-09,Chapecoense,2–1,CRB
+176,2023-07-09,Sport Recife,0–0,Mirassol Futebol Clube
+177,2023-07-10,Vila Nova,1–0,Vitória
+179,2023-07-13,Criciúma,1–1,Guarani
+180,2023-07-15,Juventude,1–1,ABC
+181,2023-07-15,Londrina,1–0,Vila Nova
+182,2023-07-15,Ponte Preta,0–1,Tombense Futebol Clube
+183,2023-07-14,Atl Goianiense,3–1,Sport Recife
+184,2023-07-14,Sampaio Corrêa,0–0,Ituano
+185,2023-07-16,Mirassol Futebol Clube,1–1,Ceará
+186,2023-07-16,Vitória,2–1,Grêmio Novorizontino
+188,2023-07-17,Botafogo (SP),1–0,Criciúma
+189,2023-07-18,Tombense Futebol Clube,2–1,CRB
+190,2023-07-18,Chapecoense,1–0,Ituano
+191,2023-07-19,Grêmio Novorizontino,3–0,Londrina
+192,2023-07-19,Atl Goianiense,2–2,Mirassol Futebol Clube
+193,2023-07-18,Ponte Preta,0–0,Juventude
+194,2023-07-19,Sport Recife,1–2,Vitória
+195,2023-07-19,Avaí,2–0,Sampaio Corrêa
+196,2023-07-19,ABC,0–1,Guarani
+197,2023-07-19,Ceará,1–0,Vila Nova
+199,2023-07-21,CRB,1–0,Ponte Preta
+200,2023-07-22,Mirassol Futebol Clube,2–0,Tombense Futebol Clube
+201,2023-07-22,Vila Nova,1–1,ABC
+202,2023-07-22,Criciúma,0–1,Grêmio Novorizontino
+203,2023-07-22,Ituano,0–1,Avaí
+204,2023-07-23,Guarani,1–0,Atl Goianiense
+205,2023-07-23,Juventude,1–0,Ceará
+206,2023-07-23,Sampaio Corrêa,1–2,Sport Recife
+207,2023-07-24,Vitória,1–0,Chapecoense
+208,2023-07-24,Londrina,1–2,Botafogo (SP)
+210,2023-07-28,Ceará,1–1,Ituano
+211,2023-07-29,Chapecoense,0–1,Mirassol Futebol Clube
+212,2023-07-29,Botafogo (SP),0–2,Juventude
+213,2023-07-29,ABC,0–0,Londrina
+214,2023-07-29,Avaí,1–2,Guarani
+215,2023-07-29,Atl Goianiense,2–2,Sampaio Corrêa
+216,2023-07-28,Sport Recife,2–0,CRB
+217,2023-07-30,Tombense Futebol Clube,2–2,Criciúma
+218,2023-07-30,Grêmio Novorizontino,3–1,Vila Nova
+219,2023-07-30,Ponte Preta,2–2,Vitória
+221,2023-08-01,Sampaio Corrêa,0–0,Botafogo (SP)
+222,2023-08-01,Mirassol Futebol Clube,2–2,Avaí
+223,2023-08-02,Criciúma,2–1,Ponte Preta
+224,2023-08-02,Ituano,1–0,Tombense Futebol Clube
+225,2023-08-01,CRB,2–1,Atl Goianiense
+226,2023-08-02,Vitória,2–0,ABC
+227,2023-08-02,Vila Nova,0–1,Sport Recife
+228,2023-08-02,Juventude,1–0,Grêmio Novorizontino
+229,2023-08-02,Londrina,1–1,Chapecoense
+230,2023-08-02,Guarani,0–0,Ceará
+232,2023-08-05,Avaí,1–0,Criciúma
+233,2023-08-05,Ituano,1–1,Guarani
+234,2023-08-05,CRB,0–0,Botafogo (SP)
+235,2023-08-05,Sport Recife,1–0,Grêmio Novorizontino
+236,2023-08-04,Mirassol Futebol Clube,0–0,Sampaio Corrêa
+237,2023-08-06,Ponte Preta,1–0,Chapecoense
+238,2023-08-06,Ceará,1–0,ABC
+239,2023-08-07,Juventude,0–2,Vila Nova
+240,2023-08-07,Atl Goianiense,3–2,Tombense Futebol Clube
+241,2023-08-07,Londrina,2–0,Vitória
+243,2023-08-11,Grêmio Novorizontino,2–1,Mirassol Futebol Clube
+244,2023-08-12,Criciúma,2–0,Londrina
+245,2023-08-12,Sampaio Corrêa,1–1,CRB
+246,2023-08-12,Botafogo (SP),0–0,Ponte Preta
+247,2023-08-12,Vila Nova,1–1,Avaí
+248,2023-08-11,Tombense Futebol Clube,0–0,Sport Recife
+249,2023-08-13,Chapecoense,0–1,Atl Goianiense
+250,2023-08-13,Guarani,0–1,Juventude
+251,2023-08-13,Vitória,1–0,Ceará
+252,2023-08-14,ABC,1–1,Ituano
+254,2023-08-17,Londrina,0–2,Atl Goianiense
+255,2023-08-18,Vitória,2–0,Botafogo (SP)
+256,2023-08-17,Vila Nova,2–0,Mirassol Futebol Clube
+257,2023-08-19,Avaí,4–2,Tombense Futebol Clube
+258,2023-08-19,Ituano,3–0,Criciúma
+259,2023-08-19,ABC,1–2,CRB
+260,2023-08-19,Juventude,0–0,Sampaio Corrêa
+261,2023-08-18,Guarani,3–1,Sport Recife
+262,2023-08-20,Grêmio Novorizontino,1–2,Chapecoense
+263,2023-08-20,Ceará,1–1,Ponte Preta
+265,2023-08-22,Mirassol Futebol Clube,0–1,Juventude
+267,2023-08-23,CRB,1–1,Avaí
+269,2023-08-22,Criciúma,1–0,Vila Nova
+271,2023-08-23,Botafogo (SP),1–2,Chapecoense
+273,2023-08-25,Ponte Preta,1–0,Londrina
+274,2023-08-26,Tombense Futebol Clube,2–2,Ceará
+275,2023-08-26,Sampaio Corrêa,1–1,Guarani
+276,2023-08-26,CRB,1–0,Grêmio Novorizontino
+277,2023-08-25,Sport Recife,1–2,Ituano
+278,2023-08-27,Chapecoense,0–0,Avaí
+279,2023-08-27,Atl Goianiense,0–0,Vitória
+280,2023-08-28,Botafogo (SP),0–0,ABC
+282,2023-08-30,Grêmio Novorizontino,2–0,Ituano
+283,2023-09-01,Vitória,0–0,Mirassol Futebol Clube
+284,2023-08-31,Juventude,0–0,Chapecoense
+285,2023-09-02,Avaí,0–2,Atl Goianiense
+286,2023-09-02,ABC,1–1,Sampaio Corrêa
+287,2023-09-02,Ceará,1–0,Criciúma
+288,2023-09-02,Guarani,1–0,Ponte Preta
+289,2023-09-01,Londrina,1–1,Tombense Futebol Clube
+290,2023-09-03,Vila Nova,0–1,CRB
+291,2023-09-03,Botafogo (SP),1–1,Sport Recife
+293,2023-09-05,Chapecoense,0–1,Guarani
+294,2023-09-07,Tombense Futebol Clube,3–0,ABC
+295,2023-09-06,Ceará,3–1,Londrina
+296,2023-09-08,Ituano,1–2,Vila Nova
+297,2023-09-09,Ponte Preta,0–0,Sampaio Corrêa
+298,2023-09-09,Mirassol Futebol Clube,1–0,Botafogo (SP)
+299,2023-09-09,Sport Recife,3–3,Criciúma
+300,2023-09-10,Atl Goianiense,3–0,Juventude
+301,2023-09-10,CRB,6–0,Vitória
+302,2023-09-11,Avaí,1–0,Grêmio Novorizontino
+304,2023-09-14,Londrina,2–2,Ituano
+305,2023-09-15,Vila Nova,1–1,Ponte Preta
+306,2023-09-16,Criciúma,2–1,Mirassol Futebol Clube
+307,2023-09-16,Sampaio Corrêa,2–0,Chapecoense
+308,2023-09-16,Botafogo (SP),1–0,Atl Goianiense
+309,2023-09-16,Juventude,3–1,CRB
+310,2023-09-15,ABC,0–1,Sport Recife
+311,2023-09-17,Guarani,3–0,Tombense Futebol Clube
+312,2023-09-17,Vitória,3–0,Avaí
+313,2023-09-18,Grêmio Novorizontino,4–1,Ceará
+315,2023-09-19,Sampaio Corrêa,2–1,Vila Nova
+316,2023-09-22,Ponte Preta,0–3,Mirassol Futebol Clube
+317,2023-09-23,Chapecoense,1–1,Ceará
+318,2023-09-23,CRB,1–0,Guarani
+319,2023-09-23,Tombense Futebol Clube,0–0,Botafogo (SP)
+320,2023-09-23,Sport Recife,4–0,Londrina
+321,2023-09-22,Atl Goianiense,3–1,Criciúma
+322,2023-09-22,Ituano,0–2,Vitória
+323,2023-09-25,Avaí,0–2,Juventude
+324,2023-09-25,Grêmio Novorizontino,2–1,ABC
+326,2023-09-28,Mirassol Futebol Clube,1–0,CRB
+327,2023-09-29,Avaí,2–2,Sport Recife
+328,2023-09-28,Londrina,1–0,Sampaio Corrêa
+329,2023-09-30,Juventude,1–0,Criciúma
+330,2023-09-30,Guarani,2–1,Grêmio Novorizontino
+331,2023-09-30,Ituano,1–1,Botafogo (SP)
+332,2023-09-30,ABC,2–0,Ponte Preta
+333,2023-09-29,Vitória,1–0,Tombense Futebol Clube
+334,2023-10-01,Vila Nova,0–0,Chapecoense
+335,2023-10-01,Ceará,0–1,Atl Goianiense
+337,2023-10-03,Mirassol Futebol Clube,2–0,Londrina
+338,2023-10-05,Chapecoense,0–0,ABC
+339,2023-10-07,Tombense Futebol Clube,1–1,Juventude
+340,2023-10-07,Botafogo (SP),0–1,Avaí
+341,2023-10-07,Sampaio Corrêa,1–1,Grêmio Novorizontino
+342,2023-10-07,Guarani,1–1,Vila Nova
+343,2023-10-06,CRB,2–0,Ceará
+344,2023-10-06,Atl Goianiense,1–0,Ituano
+345,2023-10-08,Criciúma,1–0,Vitória
+346,2023-10-09,Sport Recife,3–3,Ponte Preta
+348,2023-10-10,ABC,1–2,Mirassol Futebol Clube
+349,2023-10-11,Vila Nova,3–1,Botafogo (SP)
+350,2023-10-14,Grêmio Novorizontino,0–0,Tombense Futebol Clube
+351,2023-10-14,Ituano,0–0,CRB
+352,2023-10-14,Ceará,0–0,Sampaio Corrêa
+353,2023-10-13,Criciúma,1–2,Chapecoense
+354,2023-10-15,Ponte Preta,0–2,Atl Goianiense
+355,2023-10-15,Vitória,2–0,Guarani
+356,2023-10-15,Londrina,1–1,Avaí
+357,2023-10-16,Juventude,2–2,Sport Recife
+359,2023-10-19,Atl Goianiense,3–1,ABC
+360,2023-10-19,Tombense Futebol Clube,2–1,Vila Nova
+361,2023-10-20,Sampaio Corrêa,0–1,Vitória
+362,2023-10-21,Botafogo (SP),2–0,Grêmio Novorizontino
+363,2023-10-21,CRB,0–1,Criciúma
+364,2023-10-21,Juventude,2–2,Londrina
+365,2023-10-20,Mirassol Futebol Clube,0–0,Guarani
+366,2023-10-22,Sport Recife,2–1,Chapecoense
+367,2023-10-22,Avaí,1–0,Ceará
+368,2023-10-23,Ponte Preta,0–0,Ituano
+370,2023-10-26,ABC,1–1,Avaí
+371,2023-10-27,Ceará,2–1,Sport Recife
+372,2023-10-28,Criciúma,3–0,Sampaio Corrêa
+373,2023-10-28,Ituano,0–0,Mirassol Futebol Clube
+374,2023-10-28,Vila Nova,2–1,Atl Goianiense
+375,2023-10-27,Grêmio Novorizontino,2–0,Ponte Preta
+376,2023-10-27,Guarani,0–1,Botafogo (SP)
+377,2023-10-29,Londrina,1–1,CRB
+378,2023-10-29,Vitória,0–0,Juventude
+379,2023-10-30,Chapecoense,1–2,Tombense Futebol Clube
+381,2023-11-01,Atl Goianiense,2–2,Grêmio Novorizontino
+382,2023-11-03,Mirassol Futebol Clube,2–1,Sport Recife
+383,2023-11-04,Botafogo (SP),2–2,Ceará
+384,2023-11-04,Ponte Preta,0–1,Avaí
+385,2023-11-04,Sampaio Corrêa,1–2,Tombense Futebol Clube
+386,2023-11-03,Juventude,2–1,Ituano
+387,2023-11-03,Londrina,0–0,Guarani
+388,2023-11-05,Vitória,1–1,Vila Nova
+389,2023-11-07,CRB,3–2,Chapecoense
+390,2023-11-07,Criciúma,1–0,ABC
+392,2023-11-10,Vila Nova,4–1,Londrina
+393,2023-11-11,Ituano,2–1,Sampaio Corrêa
+394,2023-11-11,Avaí,1–1,CRB
+395,2023-11-11,Chapecoense,2–0,Botafogo (SP)
+396,2023-11-11,Tombense Futebol Clube,0–1,Ponte Preta
+397,2023-11-10,Sport Recife,0–0,Atl Goianiense
+398,2023-11-12,Ceará,2–0,Mirassol Futebol Clube
+399,2023-11-12,Grêmio Novorizontino,1–2,Vitória
+400,2023-11-14,Guarani,1–1,Criciúma
+401,2023-11-14,ABC,0–0,Juventude
+403,2023-11-17,Ituano,0–0,Chapecoense
+404,2023-11-18,Criciúma,3–0,Botafogo (SP)
+405,2023-11-18,Juventude,0–0,Ponte Preta
+406,2023-11-18,Vitória,1–0,Sport Recife
+407,2023-11-18,Vila Nova,3–1,Ceará
+408,2023-11-18,Mirassol Futebol Clube,4–1,Atl Goianiense
+409,2023-11-17,Londrina,0–1,Grêmio Novorizontino
+410,2023-11-19,Guarani,2–3,ABC
+411,2023-11-19,CRB,2–0,Tombense Futebol Clube
+412,2023-11-20,Sampaio Corrêa,4–0,Avaí
+414,2023-11-25,Botafogo (SP),0–1,Londrina
+415,2023-11-25,Sport Recife,4–1,Sampaio Corrêa
+416,2023-11-25,ABC,3–2,Vila Nova
+417,2023-11-25,Chapecoense,3–1,Vitória
+418,2023-11-25,Ponte Preta,3–0,CRB
+419,2023-11-25,Atl Goianiense,3–0,Guarani
+420,2023-11-25,Grêmio Novorizontino,2–0,Criciúma
+421,2023-11-25,Avaí,0–0,Ituano
+422,2023-11-25,Tombense Futebol Clube,0–1,Mirassol Futebol Clube
+423,2023-11-25,Ceará,1–3,Juventude

@@ -1,0 +1,39 @@
+Rodada,Date,Home Team,Score,Away Team,Técnico,Pontuação Partida,xG_aFavor,xG_Contra
+1,2023-04-16,Corinthians,2-1,Cruzeiro,Pepa,0,0.5,1.5
+2,2023-04-22,Cruzeiro,1-0,Grêmio,Pepa,3,1.5,0.8
+3,2023-04-29,Bragantino,0-3,Cruzeiro,Pepa,3,2.0,1.5
+4,2023-05-06,Cruzeiro,2-1,Santos,Pepa,3,1.6,1.0
+5,2023-05-10,Cruzeiro,0-2,Fluminense,Pepa,0,2.1,1.2
+6,2023-05-14,América (MG),0-4,Cruzeiro,Pepa,3,2.6,1.3
+7,2023-05-22,Cruzeiro,0-1,Cuiabá,Pepa,0,1.2,1.2
+8,2023-05-27,Flamengo,1-1,Cruzeiro,Pepa,1,1.2,2.0
+9,2023-06-03,Cruzeiro,0-1,Atlético Mineiro,Pepa,0,1.8,0.6
+10,2023-06-10,Bahia,2-2,Cruzeiro,Pepa,1,2.4,1.4
+11,2023-06-21,Cruzeiro,0-1,Fortaleza,Pepa,0,1.1,1.8
+12,2023-06-24,Cruzeiro,1-0,São Paulo,Pepa,3,0.5,1.4
+13,2023-07-01,Internacional,0-0,Cruzeiro,Pepa,1,1.0,2.0
+14,2023-07-08,Vasco da Gama,0-1,Cruzeiro,Pepa,3,0.7,1.3
+15,2023-07-16,Cruzeiro,0-0,Coritiba,Pepa,1,0.8,1.1
+16,2023-07-23,Cruzeiro,0-1,Goiás,Pepa,0,1.1,0.3
+17,2023-07-29,Ath Paranaense,3-3,Cruzeiro,Pepa,1,1.8,3.0
+18,2023-08-06,Cruzeiro,0-0,Botafogo (RJ),Pepa,1,0.9,0.1
+19,2023-08-14,Palmeiras,1-0,Cruzeiro,Pepa,0,0.6,1.4
+20,2023-08-19,Cruzeiro,1-1,Corinthians,Pepa,1,2.0,0.6
+21,2023-08-27,Grêmio,3-0,Cruzeiro,Pepa,0,0.6,1.5
+22,2023-09-03,Cruzeiro,0-0,Bragantino,,1,1.2,1.2
+23,2023-09-14,Santos,0-3,Cruzeiro,Zé Ricardo,3,1.4,0.5
+24,2023-09-20,Fluminense,1-0,Cruzeiro,Zé Ricardo,0,0.7,0.5
+25,2023-10-01,Cruzeiro,1-1,América (MG),Zé Ricardo,1,0.6,1.0
+26,2023-10-14,Cuiabá,0-0,Cruzeiro,Zé Ricardo,1,0.5,0.9
+27,2023-10-19,Cruzeiro,0-2,Flamengo,Zé Ricardo,0,0.3,1.8
+28,2023-10-22,Atlético Mineiro,0-1,Cruzeiro,Zé Ricardo,3,0.9,0.6
+29,2023-10-25,Cruzeiro,3-0,Bahia,Zé Ricardo,3,2.0,0.3
+30,2023-11-02,São Paulo,1-0,Cruzeiro,Zé Ricardo,0,1.0,0.7
+31,2023-11-05,Cruzeiro,1-2,Internacional,Zé Ricardo,0,1.4,0.6
+32,2023-11-11,Coritiba,1-0,Cruzeiro,Zé Ricardo,0,0.6,0.7
+33,2023-11-18,Fortaleza,0-1,Cruzeiro,Paulo Autuori,3,0.9,1.2
+34,2023-11-22,Cruzeiro,2-2,Vasco da Gama,Paulo Autuori,1,1.5,0.8
+35,2023-11-27,Goiás,0-1,Cruzeiro,Paulo Autuori,3,0.9,0.4
+36,2023-11-30,Cruzeiro,1-1,Ath Paranaense,Paulo Autuori,1,3.6,1.0
+37,2023-12-03,Botafogo (RJ),0-0,Cruzeiro,Paulo Autuori,1,0.9,1.0
+38,2023-12-06,Cruzeiro,1-1,Palmeiras,Paulo Autuori,1,1.6,1.4

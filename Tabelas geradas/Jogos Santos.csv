@@ -1,0 +1,39 @@
+Rodada,Date,Home Team,Score,Away Team,Técnico,Pontuação Partida,xG_aFavor,xG_Contra
+1,2023-04-16,Grêmio,1-0,Santos,Odair Hellmann,0,1.2,1.6
+2,2023-04-23,Santos,0-0,Atlético Mineiro,Odair Hellmann,1,0.8,1.2
+3,2023-04-29,Santos,3-2,América (MG),Odair Hellmann,3,1.8,1.8
+4,2023-05-06,Cruzeiro,2-1,Santos,Odair Hellmann,0,1.0,1.6
+5,2023-05-10,Santos,3-0,Bahia,Odair Hellmann,3,2.0,1.3
+6,2023-05-14,Vasco da Gama,0-1,Santos,Odair Hellmann,3,0.6,1.7
+7,2023-05-20,Santos,0-0,Palmeiras,Odair Hellmann,1,0.4,0.4
+8,2023-05-28,Bragantino,2-0,Santos,Odair Hellmann,0,0.3,1.5
+9,2023-06-03,Santos,1-1,Internacional,Odair Hellmann,1,1.4,1.1
+10,2023-06-10,Coritiba,0-0,Santos,Odair Hellmann,1,0.8,1.2
+11,2023-06-21,Santos,0-2,Corinthians,Odair Hellmann,0,0.8,1.3
+12,2023-06-25,Santos,2-3,Flamengo,,0,1.8,0.8
+13,2023-07-02,Cuiabá,3-0,Santos,Paulo Turra,0,0.3,1.1
+14,2023-07-09,Santos,4-3,Goiás,Paulo Turra,3,2.4,1.9
+15,2023-07-16,São Paulo,4-1,Santos,Paulo Turra,0,1.1,3.2
+16,2023-07-23,Santos,2-2,Botafogo (RJ),Paulo Turra,1,0.9,1.0
+17,2023-07-29,Fluminense,1-0,Santos,Paulo Turra,0,0.1,2.0
+18,2023-08-05,Santos,1-1,Ath Paranaense,Paulo Turra,1,1.1,0.2
+19,2023-08-13,Fortaleza,4-0,Santos,Diego Aguirre,0,0.5,2.6
+20,2023-08-20,Santos,2-1,Grêmio,Diego Aguirre,3,1.7,0.4
+21,2023-08-27,Atlético Mineiro,2-0,Santos,Diego Aguirre,0,0.7,1.6
+22,2023-09-03,América (MG),2-0,Santos,Diego Aguirre,0,1.0,1.6
+23,2023-09-14,Santos,0-3,Cruzeiro,Diego Aguirre,0,0.5,1.4
+24,2023-09-18,Bahia,1-2,Santos,Marcelo Fernandes,3,2.6,0.9
+25,2023-10-01,Santos,4-1,Vasco da Gama,Marcelo Fernandes,3,2.4,0.9
+26,2023-10-08,Palmeiras,1-2,Santos,Marcelo Fernandes,3,1.4,2.1
+27,2023-10-19,Santos,1-3,Bragantino,Marcelo Fernandes,0,1.8,2.4
+28,2023-10-22,Internacional,7-1,Santos,Marcelo Fernandes,0,1.6,1.6
+29,2023-10-26,Santos,2-1,Coritiba,Marcelo Fernandes,3,2.2,0.8
+30,2023-10-29,Corinthians,1-1,Santos,Marcelo Fernandes,1,1.3,1.2
+31,2023-11-01,Flamengo,1-2,Santos,Marcelo Fernandes,3,0.6,1.2
+32,2023-11-06,Santos,0-0,Cuiabá,Marcelo Fernandes,1,0.1,0.5
+33,2023-11-09,Goiás,0-1,Santos,Marcelo Fernandes,3,0.9,0.8
+34,2023-11-12,Santos,0-0,São Paulo,Marcelo Fernandes,1,0.6,1.2
+35,2023-11-26,Botafogo (RJ),1-1,Santos,Marcelo Fernandes,1,0.3,1.6
+36,2023-11-29,Santos,0-3,Fluminense,Marcelo Fernandes,0,1.5,1.1
+37,2023-12-03,Ath Paranaense,3-0,Santos,Marcelo Fernandes,0,0.7,1.0
+38,2023-12-06,Santos,1-2,Fortaleza,Marcelo Fernandes,0,1.0,1.2

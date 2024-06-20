@@ -1,0 +1,381 @@
+,temporada,dia_numero,mes,ano,mandante,visitante,gol_mandante,gol_visitante,ponto_mandante,ponto_visitante
+0,2023,16, Abril ,2023,Flamengo - RJ,Coritiba S.a.f. - PR,3,0,3,0
+1,2023,15, Abril ,2023,Botafogo - RJ,São Paulo - SP,2,1,3,0
+2,2023,15, Abril ,2023,Palmeiras - SP,Cuiabá Saf - MT,2,1,3,0
+3,2023,16, Abril ,2023,Corinthians - SP,Cruzeiro Saf - MG,2,1,3,0
+4,2023,15, Abril ,2023,Red Bull Bragantino - SP,Bahia - BA,2,1,3,0
+5,2023,15, Abril ,2023,Atlético Mineiro Saf - MG,Vasco da Gama S.a.f. - RJ,1,2,0,3
+6,2023,16, Abril ,2023,Grêmio - RS,Santos - SP,1,0,3,0
+7,2023,15, Abril ,2023,Athletico Paranaense - PR,Goiás - GO,2,0,3,0
+8,2023,15, Abril ,2023,Fortaleza - CE,Internacional - RS,1,1,1,1
+9,2023,15, Abril ,2023,América Saf - MG,Fluminense - RJ,0,3,0,3
+10,2023,22, Abril ,2023,Fluminense - RJ,Athletico Paranaense - PR,2,0,3,0
+11,2023,23, Abril ,2023,Vasco da Gama S.a.f. - RJ,Palmeiras - SP,2,2,1,1
+12,2023,22, Abril ,2023,São Paulo - SP,América Saf - MG,3,0,3,0
+13,2023,23, Abril ,2023,Santos - SP,Atlético Mineiro Saf - MG,0,0,1,1
+14,2023,23, Abril ,2023,Goiás - GO,Corinthians - SP,3,1,3,0
+15,2023,22, Abril ,2023,Cruzeiro Saf - MG,Grêmio - RS,1,0,3,0
+16,2023,23, Abril ,2023,Internacional - RS,Flamengo - RJ,2,1,3,0
+17,2023,23, Abril ,2023,Coritiba S.a.f. - PR,Fortaleza - CE,0,3,0,3
+18,2023,24, Abril ,2023,Bahia - BA,Botafogo - RJ,1,2,0,3
+19,2023,22, Abril ,2023,Cuiabá Saf - MT,Red Bull Bragantino - SP,1,1,1,1
+20,2023,30, Abril ,2023,Flamengo - RJ,Botafogo - RJ,2,3,0,3
+21,2023,1, Maio ,2023,Vasco da Gama S.a.f. - RJ,Bahia - BA,0,1,0,3
+22,2023,29, Abril ,2023,Palmeiras - SP,Corinthians - SP,2,1,3,0
+23,2023,29, Abril ,2023,Santos - SP,América Saf - MG,3,2,3,0
+24,2023,29, Abril ,2023,Red Bull Bragantino - SP,Cruzeiro Saf - MG,0,3,0,3
+25,2023,29, Abril ,2023,Atlético Mineiro Saf - MG,Athletico Paranaense - PR,2,1,3,0
+26,2023,30, Abril ,2023,Internacional - RS,Goiás - GO,1,0,3,0
+27,2023,29, Abril ,2023,Coritiba S.a.f. - PR,São Paulo - SP,1,1,1,1
+28,2023,29, Abril ,2023,Fortaleza - CE,Fluminense - RJ,4,2,3,0
+29,2023,30, Abril ,2023,Cuiabá Saf - MT,Grêmio - RS,1,2,0,3
+30,2023,6, Maio ,2023,Fluminense - RJ,Vasco da Gama S.a.f. - RJ,1,1,1,1
+31,2023,7, Maio ,2023,Botafogo - RJ,Atlético Mineiro Saf - MG,2,0,3,0
+32,2023,7, Maio ,2023,São Paulo - SP,Internacional - RS,2,0,3,0
+33,2023,8, Maio ,2023,Corinthians - SP,Fortaleza - CE,1,1,1,1
+34,2023,7, Maio ,2023,Goiás - GO,Palmeiras - SP,0,5,0,3
+35,2023,6, Maio ,2023,Cruzeiro Saf - MG,Santos - SP,2,1,3,0
+36,2023,7, Maio ,2023,Grêmio - RS,Red Bull Bragantino - SP,3,3,1,1
+37,2023,7, Maio ,2023,Athletico Paranaense - PR,Flamengo - RJ,2,1,3,0
+38,2023,7, Maio ,2023,Bahia - BA,Coritiba S.a.f. - PR,3,1,3,0
+39,2023,7, Maio ,2023,América Saf - MG,Cuiabá Saf - MT,1,2,0,3
+40,2023,10, Maio ,2023,Flamengo - RJ,Goiás - GO,2,0,3,0
+41,2023,11, Maio ,2023,Botafogo - RJ,Corinthians - SP,3,0,3,0
+42,2023,10, Maio ,2023,Palmeiras - SP,Grêmio - RS,4,1,3,0
+43,2023,10, Maio ,2023,Santos - SP,Bahia - BA,3,0,3,0
+44,2023,10, Maio ,2023,Red Bull Bragantino - SP,América Saf - MG,2,2,1,1
+45,2023,10, Maio ,2023,Cruzeiro Saf - MG,Fluminense - RJ,0,2,0,3
+46,2023,10, Maio ,2023,Internacional - RS,Athletico Paranaense - PR,0,2,0,3
+47,2023,11, Maio ,2023,Coritiba S.a.f. - PR,Vasco da Gama S.a.f. - RJ,1,1,1,1
+48,2023,11, Maio ,2023,Fortaleza - CE,São Paulo - SP,0,0,1,1
+49,2023,10, Maio ,2023,Cuiabá Saf - MT,Atlético Mineiro Saf - MG,0,4,0,3
+50,2023,13, Maio ,2023,Fluminense - RJ,Cuiabá Saf - MT,2,0,3,0
+51,2023,14, Maio ,2023,Vasco da Gama S.a.f. - RJ,Santos - SP,0,1,0,3
+52,2023,13, Maio ,2023,Palmeiras - SP,Red Bull Bragantino - SP,1,1,1,1
+53,2023,14, Maio ,2023,Corinthians - SP,São Paulo - SP,1,1,1,1
+54,2023,14, Maio ,2023,Goiás - GO,Botafogo - RJ,2,1,3,0
+55,2023,13, Maio ,2023,Atlético Mineiro Saf - MG,Internacional - RS,2,0,3,0
+56,2023,14, Maio ,2023,Grêmio - RS,Fortaleza - CE,0,0,1,1
+57,2023,14, Maio ,2023,Athletico Paranaense - PR,Coritiba S.a.f. - PR,3,2,3,0
+58,2023,13, Maio ,2023,Bahia - BA,Flamengo - RJ,2,3,0,3
+59,2023,14, Maio ,2023,América Saf - MG,Cruzeiro Saf - MG,0,4,0,3
+60,2023,21, Maio ,2023,Flamengo - RJ,Corinthians - SP,1,0,3,0
+61,2023,20, Maio ,2023,Botafogo - RJ,Fluminense - RJ,1,0,3,0
+62,2023,20, Maio ,2023,São Paulo - SP,Vasco da Gama S.a.f. - RJ,4,2,3,0
+63,2023,20, Maio ,2023,Santos - SP,Palmeiras - SP,0,0,1,1
+64,2023,20, Maio ,2023,Red Bull Bragantino - SP,Athletico Paranaense - PR,2,0,3,0
+65,2023,22, Maio ,2023,Cruzeiro Saf - MG,Cuiabá Saf - MT,0,1,0,3
+66,2023,21, Maio ,2023,Grêmio - RS,Internacional - RS,3,1,3,0
+67,2023,20, Maio ,2023,Coritiba S.a.f. - PR,Atlético Mineiro Saf - MG,1,2,0,3
+68,2023,20, Maio ,2023,Bahia - BA,Goiás - GO,1,1,1,1
+69,2023,20, Maio ,2023,América Saf - MG,Fortaleza - CE,2,1,3,0
+70,2023,27, Maio ,2023,Flamengo - RJ,Cruzeiro Saf - MG,1,1,1,1
+71,2023,28, Maio ,2023,Botafogo - RJ,América Saf - MG,2,0,3,0
+72,2023,27, Maio ,2023,São Paulo - SP,Goiás - GO,2,1,3,0
+73,2023,28, Maio ,2023,Corinthians - SP,Fluminense - RJ,2,0,3,0
+74,2023,28, Maio ,2023,Red Bull Bragantino - SP,Santos - SP,2,0,3,0
+75,2023,28, Maio ,2023,Atlético Mineiro Saf - MG,Palmeiras - SP,1,1,1,1
+76,2023,28, Maio ,2023,Internacional - RS,Bahia - BA,2,0,3,0
+77,2023,27, Maio ,2023,Athletico Paranaense - PR,Grêmio - RS,1,2,0,3
+78,2023,27, Maio ,2023,Fortaleza - CE,Vasco da Gama S.a.f. - RJ,2,0,3,0
+79,2023,27, Maio ,2023,Cuiabá Saf - MT,Coritiba S.a.f. - PR,1,1,1,1
+80,2023,4, Junho ,2023,Fluminense - RJ,Red Bull Bragantino - SP,2,1,3,0
+81,2023,5, Junho ,2023,Vasco da Gama S.a.f. - RJ,Flamengo - RJ,1,4,0,3
+82,2023,4, Junho ,2023,Palmeiras - SP,Coritiba S.a.f. - PR,3,1,3,0
+83,2023,3, Junho ,2023,Santos - SP,Internacional - RS,1,1,1,1
+84,2023,4, Junho ,2023,Goiás - GO,Cuiabá Saf - MT,0,1,0,3
+85,2023,3, Junho ,2023,Cruzeiro Saf - MG,Atlético Mineiro Saf - MG,0,1,0,3
+86,2023,4, Junho ,2023,Grêmio - RS,São Paulo - SP,2,1,3,0
+87,2023,3, Junho ,2023,Athletico Paranaense - PR,Botafogo - RJ,1,0,3,0
+88,2023,3, Junho ,2023,Fortaleza - CE,Bahia - BA,0,0,1,1
+89,2023,3, Junho ,2023,América Saf - MG,Corinthians - SP,2,0,3,0
+90,2023,11, Junho ,2023,Flamengo - RJ,Grêmio - RS,3,0,3,0
+91,2023,10, Junho ,2023,Botafogo - RJ,Fortaleza - CE,2,0,3,0
+92,2023,11, Junho ,2023,São Paulo - SP,Palmeiras - SP,0,2,0,3
+93,2023,10, Junho ,2023,Corinthians - SP,Cuiabá Saf - MT,1,1,1,1
+94,2023,11, Junho ,2023,Goiás - GO,Fluminense - RJ,2,2,1,1
+95,2023,10, Junho ,2023,Atlético Mineiro Saf - MG,Red Bull Bragantino - SP,1,1,1,1
+96,2023,11, Junho ,2023,Internacional - RS,Vasco da Gama S.a.f. - RJ,2,1,3,0
+97,2023,10, Junho ,2023,Coritiba S.a.f. - PR,Santos - SP,0,0,1,1
+98,2023,10, Junho ,2023,Bahia - BA,Cruzeiro Saf - MG,2,2,1,1
+99,2023,11, Junho ,2023,América Saf - MG,Athletico Paranaense - PR,2,2,1,1
+100,2023,21, Junho ,2023,Fluminense - RJ,Atlético Mineiro Saf - MG,1,1,1,1
+101,2023,22, Junho ,2023,Vasco da Gama S.a.f. - RJ,Goiás - GO,0,1,0,3
+102,2023,21, Junho ,2023,São Paulo - SP,Athletico Paranaense - PR,2,1,3,0
+103,2023,21, Junho ,2023,Santos - SP,Corinthians - SP,0,2,0,3
+104,2023,22, Junho ,2023,Red Bull Bragantino - SP,Flamengo - RJ,4,0,3,0
+105,2023,21, Junho ,2023,Cruzeiro Saf - MG,Fortaleza - CE,0,1,0,3
+106,2023,22, Junho ,2023,Grêmio - RS,América Saf - MG,3,1,3,0
+107,2023,22, Junho ,2023,Coritiba S.a.f. - PR,Internacional - RS,0,1,0,3
+108,2023,21, Junho ,2023,Bahia - BA,Palmeiras - SP,1,0,3,0
+109,2023,22, Junho ,2023,Cuiabá Saf - MT,Botafogo - RJ,0,1,0,3
+110,2023,24, Junho ,2023,Fluminense - RJ,Bahia - BA,2,1,3,0
+111,2023,26, Junho ,2023,Vasco da Gama S.a.f. - RJ,Cuiabá Saf - MT,1,0,3,0
+112,2023,25, Junho ,2023,Palmeiras - SP,Botafogo - RJ,0,1,0,3
+113,2023,25, Junho ,2023,Santos - SP,Flamengo - RJ,2,3,0,3
+114,2023,25, Junho ,2023,Red Bull Bragantino - SP,Goiás - GO,2,0,3,0
+115,2023,24, Junho ,2023,Cruzeiro Saf - MG,São Paulo - SP,1,0,3,0
+116,2023,25, Junho ,2023,Grêmio - RS,Coritiba S.a.f. - PR,5,1,3,0
+117,2023,24, Junho ,2023,Athletico Paranaense - PR,Corinthians - SP,1,0,3,0
+118,2023,24, Junho ,2023,Fortaleza - CE,Atlético Mineiro Saf - MG,2,1,3,0
+119,2023,25, Junho ,2023,América Saf - MG,Internacional - RS,1,2,0,3
+120,2023,1, Julho ,2023,Flamengo - RJ,Fortaleza - CE,2,0,3,0
+121,2023,2, Julho ,2023,Botafogo - RJ,Vasco da Gama S.a.f. - RJ,2,0,3,0
+122,2023,1, Julho ,2023,São Paulo - SP,Fluminense - RJ,1,0,3,0
+123,2023,2, Julho ,2023,Corinthians - SP,Red Bull Bragantino - SP,0,1,0,3
+124,2023,3, Julho ,2023,Goiás - GO,Coritiba S.a.f. - PR,1,2,0,3
+125,2023,2, Julho ,2023,Atlético Mineiro Saf - MG,América Saf - MG,2,2,1,1
+126,2023,1, Julho ,2023,Internacional - RS,Cruzeiro Saf - MG,0,0,1,1
+127,2023,2, Julho ,2023,Athletico Paranaense - PR,Palmeiras - SP,2,2,1,1
+128,2023,1, Julho ,2023,Bahia - BA,Grêmio - RS,1,2,0,3
+129,2023,2, Julho ,2023,Cuiabá Saf - MT,Santos - SP,3,0,3,0
+130,2023,9, Julho ,2023,Fluminense - RJ,Internacional - RS,2,0,3,0
+131,2023,8, Julho ,2023,Vasco da Gama S.a.f. - RJ,Cruzeiro Saf - MG,0,1,0,3
+132,2023,8, Julho ,2023,Palmeiras - SP,Flamengo - RJ,1,1,1,1
+133,2023,9, Julho ,2023,Santos - SP,Goiás - GO,4,3,3,0
+134,2023,9, Julho ,2023,Red Bull Bragantino - SP,São Paulo - SP,0,0,1,1
+135,2023,8, Julho ,2023,Atlético Mineiro Saf - MG,Corinthians - SP,0,1,0,3
+136,2023,9, Julho ,2023,Grêmio - RS,Botafogo - RJ,0,2,0,3
+137,2023,8, Julho ,2023,Coritiba S.a.f. - PR,América Saf - MG,3,1,3,0
+138,2023,9, Julho ,2023,Fortaleza - CE,Athletico Paranaense - PR,1,0,3,0
+139,2023,8, Julho ,2023,Cuiabá Saf - MT,Bahia - BA,1,1,1,1
+140,2023,16, Julho ,2023,Fluminense - RJ,Flamengo - RJ,0,0,1,1
+141,2023,15, Julho ,2023,Botafogo - RJ,Red Bull Bragantino - SP,2,0,3,0
+142,2023,16, Julho ,2023,São Paulo - SP,Santos - SP,4,1,3,0
+143,2023,18, Setembro ,2023,Corinthians - SP,Grêmio - RS,4,4,1,1
+144,2023,17, Julho ,2023,Goiás - GO,Atlético Mineiro Saf - MG,0,0,1,1
+145,2023,16, Julho ,2023,Cruzeiro Saf - MG,Coritiba S.a.f. - PR,0,0,1,1
+146,2023,16, Julho ,2023,Internacional - RS,Palmeiras - SP,0,0,1,1
+147,2023,16, Julho ,2023,Athletico Paranaense - PR,Bahia - BA,2,0,3,0
+148,2023,16, Julho ,2023,Fortaleza - CE,Cuiabá Saf - MT,0,1,0,3
+149,2023,25, Setembro ,2023,América Saf - MG,Vasco da Gama S.a.f. - RJ,0,1,0,3
+150,2023,22, Julho ,2023,Flamengo - RJ,América Saf - MG,1,1,1,1
+151,2023,23, Julho ,2023,Vasco da Gama S.a.f. - RJ,Athletico Paranaense - PR,0,2,0,3
+152,2023,22, Julho ,2023,Palmeiras - SP,Fortaleza - CE,3,1,3,0
+153,2023,23, Julho ,2023,Santos - SP,Botafogo - RJ,2,2,1,1
+154,2023,23, Julho ,2023,Red Bull Bragantino - SP,Internacional - RS,0,0,1,1
+155,2023,23, Julho ,2023,Cruzeiro Saf - MG,Goiás - GO,0,1,0,3
+156,2023,22, Julho ,2023,Grêmio - RS,Atlético Mineiro Saf - MG,1,0,3,0
+157,2023,24, Julho ,2023,Coritiba S.a.f. - PR,Fluminense - RJ,2,0,3,0
+158,2023,22, Julho ,2023,Bahia - BA,Corinthians - SP,0,0,1,1
+159,2023,22, Julho ,2023,Cuiabá Saf - MT,São Paulo - SP,2,1,3,0
+160,2023,29, Julho ,2023,Fluminense - RJ,Santos - SP,1,0,3,0
+161,2023,30, Julho ,2023,Botafogo - RJ,Coritiba S.a.f. - PR,4,1,3,0
+162,2023,30, Julho ,2023,São Paulo - SP,Bahia - BA,0,0,1,1
+163,2023,29, Julho ,2023,Corinthians - SP,Vasco da Gama S.a.f. - RJ,3,1,3,0
+164,2023,30, Julho ,2023,Goiás - GO,Grêmio - RS,1,1,1,1
+165,2023,29, Julho ,2023,Atlético Mineiro Saf - MG,Flamengo - RJ,1,2,0,3
+166,2023,29, Julho ,2023,Internacional - RS,Cuiabá Saf - MT,1,2,0,3
+167,2023,29, Julho ,2023,Athletico Paranaense - PR,Cruzeiro Saf - MG,3,3,1,1
+168,2023,29, Julho ,2023,Fortaleza - CE,Red Bull Bragantino - SP,0,3,0,3
+169,2023,30, Julho ,2023,América Saf - MG,Palmeiras - SP,1,4,0,3
+170,2023,5, Agosto ,2023,Fluminense - RJ,Palmeiras - SP,2,1,3,0
+171,2023,6, Agosto ,2023,Vasco da Gama S.a.f. - RJ,Grêmio - RS,1,0,3,0
+172,2023,6, Agosto ,2023,São Paulo - SP,Atlético Mineiro Saf - MG,0,2,0,3
+173,2023,5, Agosto ,2023,Santos - SP,Athletico Paranaense - PR,1,1,1,1
+174,2023,5, Agosto ,2023,Goiás - GO,Fortaleza - CE,1,0,3,0
+175,2023,6, Agosto ,2023,Cruzeiro Saf - MG,Botafogo - RJ,0,0,1,1
+176,2023,5, Agosto ,2023,Internacional - RS,Corinthians - SP,2,2,1,1
+177,2023,6, Agosto ,2023,Coritiba S.a.f. - PR,Red Bull Bragantino - SP,0,1,0,3
+178,2023,6, Agosto ,2023,Bahia - BA,América Saf - MG,3,1,3,0
+179,2023,6, Agosto ,2023,Cuiabá Saf - MT,Flamengo - RJ,3,0,3,0
+180,2023,13, Agosto ,2023,Flamengo - RJ,São Paulo - SP,1,1,1,1
+181,2023,12, Agosto ,2023,Botafogo - RJ,Internacional - RS,3,1,3,0
+182,2023,14, Agosto ,2023,Palmeiras - SP,Cruzeiro Saf - MG,1,0,3,0
+183,2023,13, Agosto ,2023,Corinthians - SP,Coritiba S.a.f. - PR,3,1,3,0
+184,2023,14, Agosto ,2023,Red Bull Bragantino - SP,Vasco da Gama S.a.f. - RJ,1,1,1,1
+185,2023,13, Agosto ,2023,Atlético Mineiro Saf - MG,Bahia - BA,1,0,3,0
+186,2023,13, Agosto ,2023,Grêmio - RS,Fluminense - RJ,2,1,3,0
+187,2023,15, Agosto ,2023,Athletico Paranaense - PR,Cuiabá Saf - MT,2,0,3,0
+188,2023,13, Agosto ,2023,Fortaleza - CE,Santos - SP,4,0,3,0
+189,2023,13, Agosto ,2023,América Saf - MG,Goiás - GO,0,1,0,3
+190,2023,19, Agosto ,2023,Fluminense - RJ,América Saf - MG,3,1,3,0
+191,2023,20, Agosto ,2023,Vasco da Gama S.a.f. - RJ,Atlético Mineiro Saf - MG,1,0,3,0
+192,2023,19, Agosto ,2023,São Paulo - SP,Botafogo - RJ,0,0,1,1
+193,2023,20, Agosto ,2023,Santos - SP,Grêmio - RS,2,1,3,0
+194,2023,21, Agosto ,2023,Goiás - GO,Athletico Paranaense - PR,1,1,1,1
+195,2023,19, Agosto ,2023,Cruzeiro Saf - MG,Corinthians - SP,1,1,1,1
+196,2023,19, Agosto ,2023,Internacional - RS,Fortaleza - CE,0,1,0,3
+197,2023,20, Agosto ,2023,Coritiba S.a.f. - PR,Flamengo - RJ,2,3,0,3
+198,2023,20, Agosto ,2023,Bahia - BA,Red Bull Bragantino - SP,4,0,3,0
+199,2023,19, Agosto ,2023,Cuiabá Saf - MT,Palmeiras - SP,0,2,0,3
+200,2023,26, Agosto ,2023,Flamengo - RJ,Internacional - RS,0,0,1,1
+201,2023,27, Agosto ,2023,Botafogo - RJ,Bahia - BA,3,0,3,0
+202,2023,27, Agosto ,2023,Palmeiras - SP,Vasco da Gama S.a.f. - RJ,1,0,3,0
+203,2023,26, Agosto ,2023,Corinthians - SP,Goiás - GO,1,1,1,1
+204,2023,27, Agosto ,2023,Red Bull Bragantino - SP,Cuiabá Saf - MT,2,0,3,0
+205,2023,27, Agosto ,2023,Atlético Mineiro Saf - MG,Santos - SP,2,0,3,0
+206,2023,27, Agosto ,2023,Grêmio - RS,Cruzeiro Saf - MG,3,0,3,0
+207,2023,27, Agosto ,2023,Athletico Paranaense - PR,Fluminense - RJ,2,2,1,1
+208,2023,27, Agosto ,2023,Fortaleza - CE,Coritiba S.a.f. - PR,3,1,3,0
+209,2023,27, Agosto ,2023,América Saf - MG,São Paulo - SP,2,1,3,0
+210,2023,3, Setembro ,2023,Fluminense - RJ,Fortaleza - CE,1,0,3,0
+211,2023,2, Setembro ,2023,Botafogo - RJ,Flamengo - RJ,1,2,0,3
+212,2023,27, Setembro ,2023,São Paulo - SP,Coritiba S.a.f. - PR,2,1,3,0
+213,2023,3, Setembro ,2023,Corinthians - SP,Palmeiras - SP,0,0,1,1
+214,2023,2, Setembro ,2023,Goiás - GO,Internacional - RS,0,0,1,1
+215,2023,3, Setembro ,2023,Cruzeiro Saf - MG,Red Bull Bragantino - SP,0,0,1,1
+216,2023,3, Setembro ,2023,Grêmio - RS,Cuiabá Saf - MT,2,0,3,0
+217,2023,2, Setembro ,2023,Athletico Paranaense - PR,Atlético Mineiro Saf - MG,1,1,1,1
+218,2023,3, Setembro ,2023,Bahia - BA,Vasco da Gama S.a.f. - RJ,1,1,1,1
+219,2023,3, Setembro ,2023,América Saf - MG,Santos - SP,2,0,3,0
+220,2023,13, Setembro ,2023,Flamengo - RJ,Athletico Paranaense - PR,0,3,0,3
+221,2023,16, Setembro ,2023,Vasco da Gama S.a.f. - RJ,Fluminense - RJ,4,2,3,0
+222,2023,15, Setembro ,2023,Palmeiras - SP,Goiás - GO,1,0,3,0
+223,2023,14, Setembro ,2023,Santos - SP,Cruzeiro Saf - MG,0,3,0,3
+224,2023,14, Setembro ,2023,Red Bull Bragantino - SP,Grêmio - RS,2,0,3,0
+225,2023,16, Setembro ,2023,Atlético Mineiro Saf - MG,Botafogo - RJ,1,0,3,0
+226,2023,13, Setembro ,2023,Internacional - RS,São Paulo - SP,2,1,3,0
+227,2023,14, Setembro ,2023,Coritiba S.a.f. - PR,Bahia - BA,2,4,0,3
+228,2023,14, Setembro ,2023,Fortaleza - CE,Corinthians - SP,2,1,3,0
+229,2023,15, Setembro ,2023,Cuiabá Saf - MT,América Saf - MG,2,2,1,1
+230,2023,20, Setembro ,2023,Fluminense - RJ,Cruzeiro Saf - MG,1,0,3,0
+231,2023,21, Setembro ,2023,Vasco da Gama S.a.f. - RJ,Coritiba S.a.f. - PR,5,1,3,0
+232,2023,20, Setembro ,2023,São Paulo - SP,Fortaleza - CE,1,2,0,3
+233,2023,22, Setembro ,2023,Corinthians - SP,Botafogo - RJ,1,0,3,0
+234,2023,20, Setembro ,2023,Goiás - GO,Flamengo - RJ,0,0,1,1
+235,2023,23, Setembro ,2023,Atlético Mineiro Saf - MG,Cuiabá Saf - MT,1,0,3,0
+236,2023,21, Setembro ,2023,Grêmio - RS,Palmeiras - SP,1,0,3,0
+237,2023,21, Setembro ,2023,Athletico Paranaense - PR,Internacional - RS,2,1,3,0
+238,2023,18, Setembro ,2023,Bahia - BA,Santos - SP,1,2,0,3
+239,2023,19, Setembro ,2023,América Saf - MG,Red Bull Bragantino - SP,0,2,0,3
+240,2023,30, Setembro ,2023,Flamengo - RJ,Bahia - BA,1,0,3,0
+241,2023,2, Outubro ,2023,Botafogo - RJ,Goiás - GO,1,1,1,1
+242,2023,30, Setembro ,2023,São Paulo - SP,Corinthians - SP,2,1,3,0
+243,2023,1, Outubro ,2023,Santos - SP,Vasco da Gama S.a.f. - RJ,4,1,3,0
+244,2023,1, Outubro ,2023,Red Bull Bragantino - SP,Palmeiras - SP,2,1,3,0
+245,2023,1, Outubro ,2023,Cruzeiro Saf - MG,América Saf - MG,1,1,1,1
+246,2023,30, Setembro ,2023,Internacional - RS,Atlético Mineiro Saf - MG,0,2,0,3
+247,2023,1, Outubro ,2023,Coritiba S.a.f. - PR,Athletico Paranaense - PR,2,0,3,0
+248,2023,30, Setembro ,2023,Fortaleza - CE,Grêmio - RS,1,1,1,1
+249,2023,30, Setembro ,2023,Cuiabá Saf - MT,Fluminense - RJ,3,0,3,0
+250,2023,8, Outubro ,2023,Fluminense - RJ,Botafogo - RJ,0,2,0,3
+251,2023,7, Outubro ,2023,Vasco da Gama S.a.f. - RJ,São Paulo - SP,0,0,1,1
+252,2023,8, Outubro ,2023,Palmeiras - SP,Santos - SP,1,2,0,3
+253,2023,7, Outubro ,2023,Corinthians - SP,Flamengo - RJ,1,1,1,1
+254,2023,7, Outubro ,2023,Goiás - GO,Bahia - BA,4,6,0,3
+255,2023,8, Outubro ,2023,Atlético Mineiro Saf - MG,Coritiba S.a.f. - PR,1,2,0,3
+256,2023,8, Outubro ,2023,Internacional - RS,Grêmio - RS,3,2,3,0
+257,2023,8, Outubro ,2023,Athletico Paranaense - PR,Red Bull Bragantino - SP,1,1,1,1
+258,2023,8, Outubro ,2023,Fortaleza - CE,América Saf - MG,3,2,3,0
+259,2023,14, Outubro ,2023,Cuiabá Saf - MT,Cruzeiro Saf - MG,0,0,1,1
+260,2023,19, Outubro ,2023,Fluminense - RJ,Corinthians - SP,3,3,1,1
+261,2023,18, Outubro ,2023,Vasco da Gama S.a.f. - RJ,Fortaleza - CE,1,0,3,0
+262,2023,19, Outubro ,2023,Palmeiras - SP,Atlético Mineiro Saf - MG,0,2,0,3
+263,2023,19, Outubro ,2023,Santos - SP,Red Bull Bragantino - SP,1,3,0,3
+264,2023,18, Outubro ,2023,Goiás - GO,São Paulo - SP,2,0,3,0
+265,2023,19, Outubro ,2023,Cruzeiro Saf - MG,Flamengo - RJ,0,2,0,3
+266,2023,18, Outubro ,2023,Grêmio - RS,Athletico Paranaense - PR,1,2,0,3
+267,2023,18, Outubro ,2023,Coritiba S.a.f. - PR,Cuiabá Saf - MT,0,3,0,3
+268,2023,18, Outubro ,2023,Bahia - BA,Internacional - RS,1,0,3,0
+269,2023,18, Outubro ,2023,América Saf - MG,Botafogo - RJ,1,2,0,3
+270,2023,22, Outubro ,2023,Flamengo - RJ,Vasco da Gama S.a.f. - RJ,1,0,3,0
+271,2023,22, Outubro ,2023,Botafogo - RJ,Athletico Paranaense - PR,1,1,1,1
+272,2023,21, Outubro ,2023,São Paulo - SP,Grêmio - RS,3,0,3,0
+273,2023,22, Outubro ,2023,Corinthians - SP,América Saf - MG,1,1,1,1
+274,2023,22, Outubro ,2023,Red Bull Bragantino - SP,Fluminense - RJ,1,0,3,0
+275,2023,22, Outubro ,2023,Atlético Mineiro Saf - MG,Cruzeiro Saf - MG,0,1,0,3
+276,2023,22, Outubro ,2023,Internacional - RS,Santos - SP,7,1,3,0
+277,2023,22, Outubro ,2023,Coritiba S.a.f. - PR,Palmeiras - SP,0,2,0,3
+278,2023,21, Outubro ,2023,Bahia - BA,Fortaleza - CE,2,0,3,0
+279,2023,21, Outubro ,2023,Cuiabá Saf - MT,Goiás - GO,1,1,1,1
+280,2023,25, Outubro ,2023,Fluminense - RJ,Goiás - GO,5,3,3,0
+281,2023,26, Outubro ,2023,Vasco da Gama S.a.f. - RJ,Internacional - RS,1,2,0,3
+282,2023,25, Outubro ,2023,Palmeiras - SP,São Paulo - SP,5,0,3,0
+283,2023,26, Outubro ,2023,Santos - SP,Coritiba S.a.f. - PR,2,1,3,0
+284,2023,25, Outubro ,2023,Red Bull Bragantino - SP,Atlético Mineiro Saf - MG,1,2,0,3
+285,2023,25, Outubro ,2023,Cruzeiro Saf - MG,Bahia - BA,3,0,3,0
+286,2023,25, Outubro ,2023,Grêmio - RS,Flamengo - RJ,3,2,3,0
+287,2023,25, Outubro ,2023,Athletico Paranaense - PR,América Saf - MG,3,2,3,0
+288,2023,23, Novembro ,2023,Fortaleza - CE,Botafogo - RJ,2,2,1,1
+289,2023,25, Outubro ,2023,Cuiabá Saf - MT,Corinthians - SP,0,1,0,3
+290,2023,23, Novembro ,2023,Flamengo - RJ,Red Bull Bragantino - SP,1,0,3,0
+291,2023,29, Outubro ,2023,Botafogo - RJ,Cuiabá Saf - MT,0,1,0,3
+292,2023,28, Outubro ,2023,Palmeiras - SP,Bahia - BA,1,0,3,0
+293,2023,29, Outubro ,2023,Corinthians - SP,Santos - SP,1,1,1,1
+294,2023,29, Outubro ,2023,Goiás - GO,Vasco da Gama S.a.f. - RJ,1,1,1,1
+295,2023,28, Outubro ,2023,Atlético Mineiro Saf - MG,Fluminense - RJ,2,0,3,0
+296,2023,29, Outubro ,2023,Internacional - RS,Coritiba S.a.f. - PR,3,4,0,3
+297,2023,29, Outubro ,2023,Athletico Paranaense - PR,São Paulo - SP,1,1,1,1
+298,2023,18, Novembro ,2023,Fortaleza - CE,Cruzeiro Saf - MG,0,1,0,3
+299,2023,28, Outubro ,2023,América Saf - MG,Grêmio - RS,3,4,0,3
+300,2023,1, Novembro ,2023,Flamengo - RJ,Santos - SP,1,2,0,3
+301,2023,1, Novembro ,2023,Botafogo - RJ,Palmeiras - SP,3,4,0,3
+302,2023,2, Novembro ,2023,São Paulo - SP,Cruzeiro Saf - MG,1,0,3,0
+303,2023,1, Novembro ,2023,Corinthians - SP,Athletico Paranaense - PR,1,0,3,0
+304,2023,2, Novembro ,2023,Goiás - GO,Red Bull Bragantino - SP,0,2,0,3
+305,2023,1, Novembro ,2023,Atlético Mineiro Saf - MG,Fortaleza - CE,3,1,3,0
+306,2023,1, Novembro ,2023,Internacional - RS,América Saf - MG,1,1,1,1
+307,2023,1, Novembro ,2023,Coritiba S.a.f. - PR,Grêmio - RS,1,2,0,3
+308,2023,31, Outubro ,2023,Bahia - BA,Fluminense - RJ,1,0,3,0
+309,2023,2, Novembro ,2023,Cuiabá Saf - MT,Vasco da Gama S.a.f. - RJ,0,2,0,3
+310,2023,22, Novembro ,2023,Fluminense - RJ,São Paulo - SP,1,0,3,0
+311,2023,6, Novembro ,2023,Vasco da Gama S.a.f. - RJ,Botafogo - RJ,1,0,3,0
+312,2023,4, Novembro ,2023,Palmeiras - SP,Athletico Paranaense - PR,1,0,3,0
+313,2023,6, Novembro ,2023,Santos - SP,Cuiabá Saf - MT,0,0,1,1
+314,2023,5, Novembro ,2023,Red Bull Bragantino - SP,Corinthians - SP,1,0,3,0
+315,2023,5, Novembro ,2023,Cruzeiro Saf - MG,Internacional - RS,1,2,0,3
+316,2023,4, Novembro ,2023,Grêmio - RS,Bahia - BA,1,0,3,0
+317,2023,5, Novembro ,2023,Coritiba S.a.f. - PR,Goiás - GO,0,1,0,3
+318,2023,5, Novembro ,2023,Fortaleza - CE,Flamengo - RJ,0,2,0,3
+319,2023,4, Novembro ,2023,América Saf - MG,Atlético Mineiro Saf - MG,1,1,1,1
+320,2023,8, Novembro ,2023,Flamengo - RJ,Palmeiras - SP,3,0,3,0
+321,2023,9, Novembro ,2023,Botafogo - RJ,Grêmio - RS,3,4,0,3
+322,2023,8, Novembro ,2023,São Paulo - SP,Red Bull Bragantino - SP,1,0,3,0
+323,2023,9, Novembro ,2023,Corinthians - SP,Atlético Mineiro Saf - MG,1,1,1,1
+324,2023,9, Novembro ,2023,Goiás - GO,Santos - SP,0,1,0,3
+325,2023,22, Novembro ,2023,Cruzeiro Saf - MG,Vasco da Gama S.a.f. - RJ,2,2,1,1
+326,2023,8, Novembro ,2023,Internacional - RS,Fluminense - RJ,0,0,1,1
+327,2023,8, Novembro ,2023,Athletico Paranaense - PR,Fortaleza - CE,1,1,1,1
+328,2023,9, Novembro ,2023,Bahia - BA,Cuiabá Saf - MT,0,3,0,3
+329,2023,8, Novembro ,2023,América Saf - MG,Coritiba S.a.f. - PR,0,3,0,3
+330,2023,11, Novembro ,2023,Flamengo - RJ,Fluminense - RJ,1,1,1,1
+331,2023,12, Novembro ,2023,Vasco da Gama S.a.f. - RJ,América Saf - MG,2,1,3,0
+332,2023,11, Novembro ,2023,Palmeiras - SP,Internacional - RS,3,0,3,0
+333,2023,12, Novembro ,2023,Santos - SP,São Paulo - SP,0,0,1,1
+334,2023,12, Novembro ,2023,Red Bull Bragantino - SP,Botafogo - RJ,2,2,1,1
+335,2023,12, Novembro ,2023,Atlético Mineiro Saf - MG,Goiás - GO,2,1,3,0
+336,2023,12, Novembro ,2023,Grêmio - RS,Corinthians - SP,0,1,0,3
+337,2023,11, Novembro ,2023,Coritiba S.a.f. - PR,Cruzeiro Saf - MG,1,0,3,0
+338,2023,12, Novembro ,2023,Bahia - BA,Athletico Paranaense - PR,1,1,1,1
+339,2023,12, Novembro ,2023,Cuiabá Saf - MT,Fortaleza - CE,2,1,3,0
+340,2023,25, Novembro ,2023,Fluminense - RJ,Coritiba S.a.f. - PR,2,1,3,0
+341,2023,26, Novembro ,2023,Botafogo - RJ,Santos - SP,1,1,1,1
+342,2023,26, Novembro ,2023,São Paulo - SP,Cuiabá Saf - MT,0,0,1,1
+343,2023,24, Novembro ,2023,Corinthians - SP,Bahia - BA,1,5,0,3
+344,2023,27, Novembro ,2023,Goiás - GO,Cruzeiro Saf - MG,0,1,0,3
+345,2023,26, Novembro ,2023,Atlético Mineiro Saf - MG,Grêmio - RS,3,0,3,0
+346,2023,26, Novembro ,2023,Internacional - RS,Red Bull Bragantino - SP,1,0,3,0
+347,2023,25, Novembro ,2023,Athletico Paranaense - PR,Vasco da Gama S.a.f. - RJ,0,0,1,1
+348,2023,26, Novembro ,2023,Fortaleza - CE,Palmeiras - SP,2,2,1,1
+349,2023,26, Novembro ,2023,América Saf - MG,Flamengo - RJ,0,3,0,3
+350,2023,29, Novembro ,2023,Flamengo - RJ,Atlético Mineiro Saf - MG,0,3,0,3
+351,2023,28, Novembro ,2023,Vasco da Gama S.a.f. - RJ,Corinthians - SP,2,4,0,3
+352,2023,29, Novembro ,2023,Palmeiras - SP,América Saf - MG,4,0,3,0
+353,2023,29, Novembro ,2023,Santos - SP,Fluminense - RJ,0,3,0,3
+354,2023,30, Novembro ,2023,Red Bull Bragantino - SP,Fortaleza - CE,1,2,0,3
+355,2023,30, Novembro ,2023,Cruzeiro Saf - MG,Athletico Paranaense - PR,1,1,1,1
+356,2023,30, Novembro ,2023,Grêmio - RS,Goiás - GO,2,1,3,0
+357,2023,29, Novembro ,2023,Coritiba S.a.f. - PR,Botafogo - RJ,1,1,1,1
+358,2023,29, Novembro ,2023,Bahia - BA,São Paulo - SP,0,1,0,3
+359,2023,29, Novembro ,2023,Cuiabá Saf - MT,Internacional - RS,0,2,0,3
+360,2023,3, Dezembro ,2023,Flamengo - RJ,Cuiabá Saf - MT,2,1,3,0
+361,2023,3, Dezembro ,2023,Botafogo - RJ,Cruzeiro Saf - MG,0,0,1,1
+362,2023,3, Dezembro ,2023,Palmeiras - SP,Fluminense - RJ,1,0,3,0
+363,2023,2, Dezembro ,2023,Corinthians - SP,Internacional - RS,1,2,0,3
+364,2023,3, Dezembro ,2023,Red Bull Bragantino - SP,Coritiba S.a.f. - PR,1,0,3,0
+365,2023,2, Dezembro ,2023,Atlético Mineiro Saf - MG,São Paulo - SP,2,1,3,0
+366,2023,3, Dezembro ,2023,Grêmio - RS,Vasco da Gama S.a.f. - RJ,1,0,3,0
+367,2023,3, Dezembro ,2023,Athletico Paranaense - PR,Santos - SP,3,0,3,0
+368,2023,3, Dezembro ,2023,Fortaleza - CE,Goiás - GO,1,0,3,0
+369,2023,3, Dezembro ,2023,América Saf - MG,Bahia - BA,3,2,3,0
+370,2023,6, Dezembro ,2023,Fluminense - RJ,Grêmio - RS,2,3,0,3
+371,2023,6, Dezembro ,2023,Vasco da Gama S.a.f. - RJ,Red Bull Bragantino - SP,2,1,3,0
+372,2023,6, Dezembro ,2023,São Paulo - SP,Flamengo - RJ,1,0,3,0
+373,2023,6, Dezembro ,2023,Santos - SP,Fortaleza - CE,1,2,0,3
+374,2023,6, Dezembro ,2023,Goiás - GO,América Saf - MG,1,0,3,0
+375,2023,6, Dezembro ,2023,Cruzeiro Saf - MG,Palmeiras - SP,1,1,1,1
+376,2023,6, Dezembro ,2023,Internacional - RS,Botafogo - RJ,3,1,3,0
+377,2023,6, Dezembro ,2023,Coritiba S.a.f. - PR,Corinthians - SP,0,2,0,3
+378,2023,6, Dezembro ,2023,Bahia - BA,Atlético Mineiro Saf - MG,4,1,3,0
+379,2023,6, Dezembro ,2023,Cuiabá Saf - MT,Athletico Paranaense - PR,3,0,3,0

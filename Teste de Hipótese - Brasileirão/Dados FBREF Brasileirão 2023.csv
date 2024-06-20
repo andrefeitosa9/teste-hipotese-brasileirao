@@ -1,0 +1,381 @@
+,Date,Home Team,xG Home,Score,xG Away,Away Team
+0,2023-04-15,América (MG),1.1,0–3,3.1,Fluminense
+1,2023-04-15,Palmeiras,3.0,2–1,1.0,Cuiabá
+2,2023-04-15,Bragantino,2.0,2–1,0.7,Bahia
+3,2023-04-15,Botafogo (RJ),0.9,2–1,2.0,São Paulo
+4,2023-04-15,Ath Paranaense,0.8,2–0,1.0,Goiás
+5,2023-04-15,Fortaleza,1.5,1–1,0.9,Internacional
+6,2023-04-16,Flamengo,1.4,3–0,0.4,Coritiba
+7,2023-04-16,Corinthians,1.5,2–1,0.5,Cruzeiro
+8,2023-04-16,Grêmio,1.6,1–0,1.2,Santos
+9,2023-04-15,Atlético Mineiro,1.5,1–2,1.5,Vasco da Gama
+11,2023-04-22,Fluminense,0.8,2–0,0.6,Ath Paranaense
+12,2023-04-22,Cuiabá,1.2,1–1,0.9,Bragantino
+13,2023-04-22,São Paulo,2.4,3–0,1.1,América (MG)
+14,2023-04-23,Internacional,1.1,2–1,1.5,Flamengo
+15,2023-04-23,Vasco da Gama,1.4,2–2,0.7,Palmeiras
+16,2023-04-23,Santos,0.8,0–0,1.2,Atlético Mineiro
+17,2023-04-23,Coritiba,0.7,0–3,2.6,Fortaleza
+18,2023-04-23,Goiás,1.2,3–1,0.5,Corinthians
+19,2023-04-22,Cruzeiro,1.5,1–0,0.8,Grêmio
+20,2023-04-24,Bahia,0.9,1–2,0.2,Botafogo (RJ)
+22,2023-04-29,Coritiba,1.8,1–1,1.1,São Paulo
+23,2023-04-29,Fortaleza,5.3,4–2,1.5,Fluminense
+24,2023-04-29,Bragantino,1.5,0–3,2.0,Cruzeiro
+25,2023-04-29,Santos,1.8,3–2,1.8,América (MG)
+26,2023-04-29,Palmeiras,1.4,2–1,0.5,Corinthians
+27,2023-04-30,Flamengo,3.1,2–3,1.9,Botafogo (RJ)
+28,2023-04-30,Cuiabá,1.2,1–2,1.7,Grêmio
+29,2023-04-30,Internacional,0.9,1–0,0.8,Goiás
+30,2023-04-29,Atlético Mineiro,2.0,2–1,0.6,Ath Paranaense
+31,2023-05-01,Vasco da Gama,0.9,0–1,1.1,Bahia
+33,2023-05-06,Cruzeiro,1.6,2–1,1.0,Santos
+34,2023-05-07,América (MG),1.4,1–2,0.5,Cuiabá
+35,2023-05-07,Ath Paranaense,1.0,2–1,1.5,Flamengo
+36,2023-05-07,São Paulo,1.9,2–0,0.8,Internacional
+37,2023-05-07,Bahia,1.5,3–1,0.4,Coritiba
+38,2023-05-07,Botafogo (RJ),2.0,2–0,0.5,Atlético Mineiro
+39,2023-05-07,Grêmio,1.7,3–3,1.8,Bragantino
+40,2023-05-07,Goiás,0.7,0–5,2.0,Palmeiras
+41,2023-05-06,Fluminense,1.8,1–1,0.7,Vasco da Gama
+42,2023-05-08,Corinthians,1.5,1–1,0.8,Fortaleza
+44,2023-05-10,Internacional,1.0,0–2,1.5,Ath Paranaense
+45,2023-05-10,Bragantino,1.7,2–2,2.0,América (MG)
+46,2023-05-10,Cuiabá,0.2,0–4,2.8,Atlético Mineiro
+47,2023-05-10,Santos,2.0,3–0,1.3,Bahia
+48,2023-05-10,Flamengo,2.6,2–0,0.7,Goiás
+49,2023-05-11,Coritiba,1.0,1–1,0.8,Vasco da Gama
+50,2023-05-11,Botafogo (RJ),2.6,3–0,0.6,Corinthians
+51,2023-05-11,Fortaleza,0.8,0–0,0.8,São Paulo
+52,2023-05-10,Palmeiras,3.8,4–1,0.1,Grêmio
+53,2023-05-10,Cruzeiro,2.1,0–2,1.2,Fluminense
+55,2023-05-13,Bahia,1.4,2–3,2.2,Flamengo
+56,2023-05-13,Fluminense,0.9,2–0,0.9,Cuiabá
+57,2023-05-13,Palmeiras,1.6,1–1,1.0,Bragantino
+58,2023-05-14,Grêmio,0.8,0–0,0.6,Fortaleza
+59,2023-05-14,Vasco da Gama,1.7,0–1,0.6,Santos
+60,2023-05-14,Corinthians,0.9,1–1,0.9,São Paulo
+61,2023-05-14,Ath Paranaense,2.9,3–2,0.4,Coritiba
+62,2023-05-14,América (MG),1.3,0–4,2.6,Cruzeiro
+63,2023-05-14,Goiás,1.9,2–1,1.5,Botafogo (RJ)
+64,2023-05-13,Atlético Mineiro,2.0,2–0,0.3,Internacional
+66,2023-05-20,Bahia,2.3,1–1,0.9,Goiás
+67,2023-05-20,Bragantino,1.7,2–0,1.1,Ath Paranaense
+68,2023-05-20,Coritiba,1.0,1–2,1.5,Atlético Mineiro
+69,2023-05-20,Botafogo (RJ),1.4,1–0,0.9,Fluminense
+70,2023-05-20,América (MG),0.8,2–1,1.2,Fortaleza
+71,2023-05-20,São Paulo,2.3,4–2,1.1,Vasco da Gama
+72,2023-05-21,Flamengo,0.6,1–0,1.2,Corinthians
+73,2023-05-21,Grêmio,1.7,3–1,1.5,Internacional
+74,2023-05-20,Santos,0.4,0–0,0.4,Palmeiras
+75,2023-05-22,Cruzeiro,1.2,0–1,1.2,Cuiabá
+77,2023-05-27,Fortaleza,1.5,2–0,0.7,Vasco da Gama
+78,2023-05-27,Ath Paranaense,1.3,1–2,0.7,Grêmio
+79,2023-05-27,Cuiabá,0.7,1–1,1.0,Coritiba
+80,2023-05-27,Flamengo,2.0,1–1,1.2,Cruzeiro
+81,2023-05-28,Corinthians,1.4,2–0,1.3,Fluminense
+82,2023-05-28,Internacional,0.9,2–0,1.1,Bahia
+83,2023-05-28,Bragantino,1.5,2–0,0.3,Santos
+84,2023-05-28,Atlético Mineiro,0.8,1–1,1.1,Palmeiras
+85,2023-05-28,Botafogo (RJ),2.1,2–0,0.4,América (MG)
+86,2023-05-27,São Paulo,0.9,2–1,0.3,Goiás
+88,2023-06-03,Fortaleza,0.6,0–0,0.3,Bahia
+89,2023-06-03,Cruzeiro,1.8,0–1,0.6,Atlético Mineiro
+90,2023-06-03,Ath Paranaense,0.9,1–0,0.6,Botafogo (RJ)
+91,2023-06-03,América (MG),1.4,2–0,1.2,Corinthians
+92,2023-06-04,Fluminense,1.1,2–1,0.6,Bragantino
+93,2023-06-04,Grêmio,1.9,2–1,1.1,São Paulo
+94,2023-06-04,Goiás,0.4,0–1,1.2,Cuiabá
+95,2023-06-04,Palmeiras,2.5,3–1,0.6,Coritiba
+96,2023-06-03,Santos,1.4,1–1,1.1,Internacional
+97,2023-06-05,Vasco da Gama,1.5,1–4,1.1,Flamengo
+99,2023-06-10,Coritiba,1.2,0–0,0.8,Santos
+100,2023-06-10,Bahia,1.4,2–2,2.4,Cruzeiro
+101,2023-06-10,Atlético Mineiro,1.7,1–1,0.5,Bragantino
+102,2023-06-10,Corinthians,1.4,1–1,0.7,Cuiabá
+103,2023-06-11,América (MG),1.9,2–2,0.8,Ath Paranaense
+104,2023-06-11,Internacional,1.6,2–1,0.9,Vasco da Gama
+105,2023-06-11,São Paulo,1.4,0–2,0.7,Palmeiras
+106,2023-06-11,Flamengo,1.9,3–0,2.0,Grêmio
+107,2023-06-11,Goiás,2.1,2–2,1.3,Fluminense
+108,2023-06-10,Botafogo (RJ),3.7,2–0,0.4,Fortaleza
+110,2023-06-21,São Paulo,0.6,2–1,1.2,Ath Paranaense
+111,2023-06-21,Cruzeiro,1.1,0–1,1.8,Fortaleza
+112,2023-06-21,Santos,0.8,0–2,1.3,Corinthians
+113,2023-06-22,Grêmio,2.4,3–1,0.8,América (MG)
+114,2023-06-22,Cuiabá,1.1,0–1,1.2,Botafogo (RJ)
+115,2023-06-22,Vasco da Gama,1.7,0–1,0.4,Goiás
+116,2023-06-22,Coritiba,1.5,0–1,0.9,Internacional
+117,2023-06-21,Bahia,1.1,1–0,0.8,Palmeiras
+118,2023-06-21,Fluminense,0.4,1–1,1.4,Atlético Mineiro
+119,2023-06-22,Bragantino,3.3,4–0,0.8,Flamengo
+121,2023-06-24,Ath Paranaense,2.7,1–0,0.9,Corinthians
+122,2023-06-24,Fluminense,3.0,2–1,1.0,Bahia
+123,2023-06-24,Fortaleza,0.8,2–1,1.0,Atlético Mineiro
+124,2023-06-25,Grêmio,3.4,5–1,1.1,Coritiba
+125,2023-06-25,Palmeiras,2.6,0–1,0.8,Botafogo (RJ)
+126,2023-06-25,Bragantino,1.7,2–0,0.2,Goiás
+127,2023-06-25,América (MG),1.3,1–2,1.0,Internacional
+128,2023-06-25,Santos,1.8,2–3,0.8,Flamengo
+129,2023-06-24,Cruzeiro,0.5,1–0,1.4,São Paulo
+130,2023-06-26,Vasco da Gama,1.7,1–0,0.6,Cuiabá
+132,2023-07-01,São Paulo,1.1,1–0,0.2,Fluminense
+133,2023-07-01,Bahia,1.9,1–2,2.9,Grêmio
+134,2023-07-01,Flamengo,1.3,2–0,1.6,Fortaleza
+135,2023-07-02,Corinthians,0.6,0–1,0.9,Bragantino
+136,2023-07-02,Botafogo (RJ),1.7,2–0,0.9,Vasco da Gama
+137,2023-07-02,Atlético Mineiro,1.3,2–2,2.6,América (MG)
+138,2023-07-02,Ath Paranaense,3.5,2–2,1.6,Palmeiras
+139,2023-07-02,Cuiabá,1.1,3–0,0.3,Santos
+140,2023-07-01,Internacional,2.0,0–0,1.0,Cruzeiro
+141,2023-07-03,Goiás,1.9,1–2,0.9,Coritiba
+143,2023-07-08,Cuiabá,1.5,1–1,0.3,Bahia
+144,2023-07-08,Vasco da Gama,1.3,0–1,0.7,Cruzeiro
+145,2023-07-08,Atlético Mineiro,1.4,0–1,0.8,Corinthians
+146,2023-07-08,Coritiba,1.9,3–1,1.1,América (MG)
+147,2023-07-09,Santos,2.4,4–3,1.9,Goiás
+148,2023-07-09,Bragantino,1.6,0–0,0.5,São Paulo
+149,2023-07-09,Fluminense,1.1,2–0,0.4,Internacional
+150,2023-07-09,Fortaleza,1.5,1–0,1.2,Ath Paranaense
+151,2023-07-09,Grêmio,1.6,0–2,1.1,Botafogo (RJ)
+152,2023-07-08,Palmeiras,1.1,1–1,0.8,Flamengo
+154,2023-07-16,Cruzeiro,0.8,0–0,1.1,Coritiba
+155,2023-07-16,São Paulo,3.2,4–1,1.1,Santos
+156,2023-07-16,Fortaleza,0.9,0–1,0.7,Cuiabá
+157,2023-07-16,Fluminense,1.5,0–0,0.4,Flamengo
+158,2023-07-16,Ath Paranaense,2.2,2–0,1.0,Bahia
+159,2023-07-16,Internacional,0.5,0–0,1.4,Palmeiras
+160,2023-07-15,Botafogo (RJ),1.0,2–0,1.4,Bragantino
+161,2023-07-17,Goiás,1.5,0–0,0.2,Atlético Mineiro
+163,2023-07-22,Palmeiras,1.4,3–1,1.5,Fortaleza
+164,2023-07-22,Flamengo,2.5,1–1,1.3,América (MG)
+165,2023-07-22,Cuiabá,2.2,2–1,0.9,São Paulo
+166,2023-07-22,Bahia,1.4,0–0,0.1,Corinthians
+167,2023-07-23,Santos,0.9,2–2,1.0,Botafogo (RJ)
+168,2023-07-23,Cruzeiro,1.1,0–1,0.3,Goiás
+169,2023-07-23,Bragantino,1.0,0–0,0.9,Internacional
+170,2023-07-23,Vasco da Gama,1.5,0–2,1.3,Ath Paranaense
+171,2023-07-22,Grêmio,0.7,1–0,0.9,Atlético Mineiro
+172,2023-07-24,Coritiba,1.9,2–0,1.0,Fluminense
+174,2023-07-29,Ath Paranaense,3.0,3–3,1.8,Cruzeiro
+175,2023-07-29,Internacional,1.0,1–2,1.0,Cuiabá
+176,2023-07-29,Fluminense,2.0,1–0,0.1,Santos
+177,2023-07-29,Corinthians,1.3,3–1,1.7,Vasco da Gama
+178,2023-07-29,Fortaleza,1.0,0–3,2.1,Bragantino
+179,2023-07-30,São Paulo,1.8,0–0,0.5,Bahia
+180,2023-07-30,América (MG),1.4,1–4,0.9,Palmeiras
+181,2023-07-30,Botafogo (RJ),0.9,4–1,1.2,Coritiba
+182,2023-07-30,Goiás,0.8,1–1,0.3,Grêmio
+183,2023-07-29,Atlético Mineiro,0.9,1–2,1.8,Flamengo
+185,2023-08-05,Santos,1.1,1–1,0.2,Ath Paranaense
+186,2023-08-05,Goiás,0.9,1–0,0.7,Fortaleza
+187,2023-08-05,Internacional,1.5,2–2,1.1,Corinthians
+188,2023-08-06,São Paulo,0.9,0–2,1.9,Atlético Mineiro
+189,2023-08-06,Vasco da Gama,1.8,1–0,1.5,Grêmio
+190,2023-08-06,Cruzeiro,0.9,0–0,0.1,Botafogo (RJ)
+191,2023-08-06,Bahia,1.7,3–1,0.4,América (MG)
+192,2023-08-06,Coritiba,0.5,0–1,1.0,Bragantino
+193,2023-08-06,Cuiabá,1.9,3–0,0.8,Flamengo
+194,2023-08-05,Fluminense,2.6,2–1,1.0,Palmeiras
+196,2023-08-13,Atlético Mineiro,1.1,1–0,0.6,Bahia
+197,2023-08-13,América (MG),0.9,0–1,0.5,Goiás
+198,2023-08-13,Grêmio,1.2,2–1,1.0,Fluminense
+199,2023-08-13,Corinthians,2.4,3–1,0.8,Coritiba
+200,2023-08-13,Fortaleza,2.6,4–0,0.5,Santos
+201,2023-08-13,Flamengo,1.4,1–1,0.8,São Paulo
+202,2023-08-12,Botafogo (RJ),2.3,3–1,1.7,Internacional
+203,2023-08-14,Palmeiras,1.4,1–0,0.6,Cruzeiro
+204,2023-08-15,Ath Paranaense,0.8,2–0,1.1,Cuiabá
+205,2023-08-14,Bragantino,1.6,1–1,1.5,Vasco da Gama
+207,2023-08-19,São Paulo,0.7,0–0,0.9,Botafogo (RJ)
+208,2023-08-19,Internacional,1.0,0–1,1.1,Fortaleza
+209,2023-08-19,Cuiabá,0.7,0–2,1.7,Palmeiras
+210,2023-08-19,Fluminense,1.2,3–1,1.4,América (MG)
+211,2023-08-20,Vasco da Gama,1.9,1–0,0.7,Atlético Mineiro
+212,2023-08-20,Santos,1.7,2–1,0.4,Grêmio
+213,2023-08-20,Bahia,1.8,4–0,0.7,Bragantino
+214,2023-08-20,Coritiba,2.6,2–3,1.9,Flamengo
+215,2023-08-19,Cruzeiro,2.0,1–1,0.6,Corinthians
+216,2023-08-21,Goiás,1.0,1–1,1.0,Ath Paranaense
+218,2023-08-26,Flamengo,0.7,0–0,0.3,Internacional
+219,2023-08-27,Bragantino,1.5,2–0,0.5,Cuiabá
+220,2023-08-27,Atlético Mineiro,1.6,2–0,0.7,Santos
+221,2023-08-27,Botafogo (RJ),2.3,3–0,1.2,Bahia
+222,2023-08-27,América (MG),1.3,2–1,1.4,São Paulo
+223,2023-08-27,Palmeiras,0.7,1–0,0.1,Vasco da Gama
+224,2023-08-27,Ath Paranaense,0.8,2–2,3.0,Fluminense
+225,2023-08-27,Fortaleza,2.5,3–1,1.0,Coritiba
+226,2023-08-27,Grêmio,1.5,3–0,0.6,Cruzeiro
+227,2023-08-26,Corinthians,1.0,1–1,1.8,Goiás
+229,2023-09-02,Ath Paranaense,2.0,1–1,0.4,Atlético Mineiro
+230,2023-09-02,Goiás,0.9,0–0,0.7,Internacional
+231,2023-09-03,Grêmio,0.7,2–0,1.1,Cuiabá
+232,2023-09-03,Corinthians,0.8,0–0,0.7,Palmeiras
+233,2023-09-03,Fluminense,0.6,1–0,0.9,Fortaleza
+234,2023-09-03,Cruzeiro,1.2,0–0,1.2,Bragantino
+235,2023-09-03,Bahia,1.7,1–1,1.1,Vasco da Gama
+236,2023-09-03,América (MG),1.6,2–0,1.0,Santos
+237,2023-09-02,Botafogo (RJ),1.1,1–2,0.8,Flamengo
+239,2023-09-14,Santos,0.5,0–3,1.4,Cruzeiro
+240,2023-09-14,Fortaleza,2.6,2–1,0.4,Corinthians
+241,2023-09-14,Coritiba,1.3,2–4,3.8,Bahia
+242,2023-09-13,Internacional,1.0,2–1,1.4,São Paulo
+243,2023-09-13,Flamengo,0.5,0–3,2.3,Ath Paranaense
+244,2023-09-15,Cuiabá,1.7,2–2,0.4,América (MG)
+245,2023-09-14,Bragantino,1.3,2–0,1.3,Grêmio
+246,2023-09-16,Vasco da Gama,1.4,4–2,1.9,Fluminense
+247,2023-09-15,Palmeiras,1.0,1–0,0.4,Goiás
+248,2023-09-16,Atlético Mineiro,1.3,1–0,0.1,Botafogo (RJ)
+250,2023-09-18,Bahia,0.9,1–2,2.6,Santos
+252,2023-09-18,Corinthians,1.8,4–4,1.1,Grêmio
+254,2023-09-20,Goiás,0.1,0–0,0.5,Flamengo
+255,2023-09-19,América (MG),1.2,0–2,1.8,Bragantino
+256,2023-09-21,Vasco da Gama,3.5,5–1,0.5,Coritiba
+257,2023-09-21,Ath Paranaense,0.9,2–1,0.8,Internacional
+258,2023-09-20,Fluminense,0.5,1–0,0.7,Cruzeiro
+259,2023-09-20,São Paulo,1.6,1–2,1.1,Fortaleza
+260,2023-09-22,Corinthians,1.1,1–0,0.5,Botafogo (RJ)
+261,2023-09-21,Grêmio,0.4,1–0,1.0,Palmeiras
+262,2023-09-23,Atlético Mineiro,0.6,1–0,0.4,Cuiabá
+264,2023-09-25,América (MG),1.6,0–1,0.8,Vasco da Gama
+266,2023-09-27,São Paulo,1.6,2–1,0.8,Coritiba
+268,2023-09-30,Fortaleza,1.9,1–1,1.5,Grêmio
+269,2023-09-30,Flamengo,1.4,1–0,0.5,Bahia
+270,2023-09-30,Cuiabá,1.2,3–0,0.2,Fluminense
+271,2023-09-30,São Paulo,2.3,2–1,0.2,Corinthians
+272,2023-10-01,Coritiba,0.5,2–0,0.9,Ath Paranaense
+273,2023-10-01,Santos,2.4,4–1,0.9,Vasco da Gama
+274,2023-10-01,Cruzeiro,0.6,1–1,1.0,América (MG)
+275,2023-10-01,Bragantino,2.9,2–1,1.5,Palmeiras
+276,2023-09-30,Internacional,0.8,0–2,1.4,Atlético Mineiro
+277,2023-10-02,Botafogo (RJ),0.9,1–1,0.5,Goiás
+279,2023-10-07,Goiás,2.7,4–6,2.0,Bahia
+280,2023-10-07,Vasco da Gama,0.9,0–0,1.4,São Paulo
+281,2023-10-08,Fluminense,1.1,0–2,1.9,Botafogo (RJ)
+282,2023-10-08,Palmeiras,2.1,1–2,1.4,Santos
+283,2023-10-08,Internacional,2.5,3–2,0.4,Grêmio
+284,2023-10-08,Ath Paranaense,1.7,1–1,0.6,Bragantino
+285,2023-10-08,Fortaleza,2.2,3–2,1.4,América (MG)
+286,2023-10-08,Atlético Mineiro,0.6,1–2,0.8,Coritiba
+287,2023-10-07,Corinthians,1.0,1–1,0.9,Flamengo
+288,2023-10-14,Cuiabá,0.9,0–0,0.5,Cruzeiro
+290,2023-10-18,Grêmio,1.6,1–2,0.9,Ath Paranaense
+291,2023-10-18,Coritiba,1.4,0–3,0.4,Cuiabá
+292,2023-10-18,América (MG),2.9,1–2,0.5,Botafogo (RJ)
+293,2023-10-19,Cruzeiro,0.3,0–2,1.8,Flamengo
+294,2023-10-19,Palmeiras,0.7,0–2,1.1,Atlético Mineiro
+295,2023-10-19,Santos,1.8,1–3,2.4,Bragantino
+296,2023-10-18,Bahia,2.0,1–0,0.6,Internacional
+297,2023-10-18,Vasco da Gama,2.0,1–0,0.7,Fortaleza
+298,2023-10-18,Goiás,0.5,2–0,0.5,São Paulo
+299,2023-10-19,Fluminense,1.9,3–3,2.1,Corinthians
+301,2023-10-21,Cuiabá,1.3,1–1,1.8,Goiás
+302,2023-10-21,São Paulo,3.2,3–0,0.1,Grêmio
+303,2023-10-21,Bahia,1.2,2–0,0.5,Fortaleza
+304,2023-10-22,Botafogo (RJ),0.9,1–1,1.1,Ath Paranaense
+305,2023-10-22,Atlético Mineiro,0.6,0–1,0.9,Cruzeiro
+306,2023-10-22,Internacional,1.6,7–1,1.6,Santos
+307,2023-10-22,Flamengo,0.5,1–0,1.1,Vasco da Gama
+308,2023-10-22,Corinthians,1.3,1–1,0.7,América (MG)
+309,2023-10-22,Coritiba,0.6,0–2,1.1,Palmeiras
+310,2023-10-22,Bragantino,2.2,1–0,0.5,Fluminense
+312,2023-10-25,Ath Paranaense,3.1,3–2,0.9,América (MG)
+313,2023-10-25,Bragantino,1.9,1–2,1.4,Atlético Mineiro
+314,2023-10-25,Fluminense,2.7,5–3,0.6,Goiás
+315,2023-10-25,Cruzeiro,2.0,3–0,0.3,Bahia
+316,2023-10-25,Palmeiras,2.4,5–0,0.1,São Paulo
+317,2023-10-26,Vasco da Gama,1.0,1–2,1.6,Internacional
+318,2023-10-25,Cuiabá,0.6,0–1,1.4,Corinthians
+319,2023-10-25,Grêmio,1.0,3–2,1.1,Flamengo
+320,2023-10-26,Santos,2.2,2–1,0.8,Coritiba
+322,2023-10-28,América (MG),2.4,3–4,2.1,Grêmio
+323,2023-10-28,Palmeiras,1.7,1–0,0.1,Bahia
+324,2023-10-29,Ath Paranaense,1.2,1–1,0.6,São Paulo
+325,2023-10-29,Goiás,1.1,1–1,0.9,Vasco da Gama
+326,2023-10-29,Corinthians,1.2,1–1,1.3,Santos
+327,2023-10-29,Internacional,2.7,3–4,2.7,Coritiba
+328,2023-10-29,Botafogo (RJ),2.0,0–1,1.1,Cuiabá
+329,2023-10-28,Atlético Mineiro,1.2,2–0,0.8,Fluminense
+331,2023-10-31,Bahia,0.5,1–0,0.7,Fluminense
+332,2023-11-01,Corinthians,1.0,1–0,0.8,Ath Paranaense
+333,2023-11-01,Internacional,1.3,1–1,0.3,América (MG)
+334,2023-11-01,Coritiba,1.5,1–2,1.4,Grêmio
+335,2023-11-01,Flamengo,1.2,1–2,0.6,Santos
+336,2023-11-02,Cuiabá,0.6,0–2,1.4,Vasco da Gama
+337,2023-11-02,Goiás,1.4,0–2,3.1,Bragantino
+338,2023-11-02,São Paulo,0.7,1–0,1.0,Cruzeiro
+339,2023-11-01,Atlético Mineiro,2.3,3–1,0.4,Fortaleza
+340,2023-11-01,Botafogo (RJ),3.5,3–4,1.7,Palmeiras
+342,2023-11-04,Grêmio,0.5,1–0,0.9,Bahia
+343,2023-11-04,América (MG),1.4,1–1,1.0,Atlético Mineiro
+344,2023-11-05,Cruzeiro,1.4,1–2,0.6,Internacional
+345,2023-11-05,Fortaleza,0.8,0–2,0.7,Flamengo
+346,2023-11-05,Bragantino,1.1,1–0,0.3,Corinthians
+347,2023-11-05,Coritiba,0.3,0–1,1.3,Goiás
+348,2023-11-04,Palmeiras,1.5,1–0,0.6,Ath Paranaense
+349,2023-11-06,Vasco da Gama,0.5,1–0,0.5,Botafogo (RJ)
+350,2023-11-06,Santos,0.1,0–0,0.5,Cuiabá
+352,2023-11-08,América (MG),0.4,0–3,0.9,Coritiba
+353,2023-11-08,Internacional,1.1,0–0,0.5,Fluminense
+354,2023-11-08,São Paulo,2.0,1–0,0.5,Bragantino
+355,2023-11-08,Ath Paranaense,1.2,1–1,0.7,Fortaleza
+356,2023-11-09,Corinthians,1.5,1–1,1.1,Atlético Mineiro
+357,2023-11-09,Goiás,0.8,0–1,0.9,Santos
+358,2023-11-09,Botafogo (RJ),1.4,3–4,2.0,Grêmio
+359,2023-11-09,Bahia,0.7,0–3,2.0,Cuiabá
+360,2023-11-08,Flamengo,1.4,3–0,1.0,Palmeiras
+362,2023-11-11,Coritiba,0.7,1–0,0.6,Cruzeiro
+363,2023-11-11,Flamengo,0.9,1–1,1.4,Fluminense
+364,2023-11-12,Bragantino,2.9,2–2,0.8,Botafogo (RJ)
+365,2023-11-12,Grêmio,1.4,0–1,0.6,Corinthians
+366,2023-11-12,Cuiabá,1.6,2–1,0.5,Fortaleza
+367,2023-11-12,Santos,0.6,0–0,1.2,São Paulo
+368,2023-11-12,Vasco da Gama,1.7,2–1,2.5,América (MG)
+369,2023-11-12,Bahia,2.5,1–1,0.7,Ath Paranaense
+370,2023-11-12,Atlético Mineiro,1.2,2–1,1.0,Goiás
+371,2023-11-11,Palmeiras,1.7,3–0,0.7,Internacional
+373,2023-11-18,Fortaleza,1.2,0–1,0.9,Cruzeiro
+375,2023-11-22,Cruzeiro,1.5,2–2,0.8,Vasco da Gama
+377,2023-11-23,Fortaleza,2.0,2–2,0.8,Botafogo (RJ)
+379,2023-11-22,Fluminense,1.0,1–0,0.1,São Paulo
+381,2023-11-23,Flamengo,1.1,1–0,1.3,Bragantino
+383,2023-11-25,Ath Paranaense,1.5,0–0,0.6,Vasco da Gama
+384,2023-11-24,Corinthians,0.9,1–5,2.7,Bahia
+385,2023-11-26,Atlético Mineiro,2.1,3–0,1.3,Grêmio
+386,2023-11-26,Botafogo (RJ),1.6,1–1,0.3,Santos
+387,2023-11-26,Internacional,1.1,1–0,0.5,Bragantino
+388,2023-11-26,São Paulo,0.8,0–0,0.1,Cuiabá
+389,2023-11-26,Fortaleza,1.8,2–2,0.8,Palmeiras
+390,2023-11-26,América (MG),0.5,0–3,3.0,Flamengo
+391,2023-11-25,Fluminense,1.9,2–1,0.8,Coritiba
+392,2023-11-27,Goiás,0.4,0–1,0.9,Cruzeiro
+394,2023-11-29,Santos,1.5,0–3,1.1,Fluminense
+395,2023-11-29,Cuiabá,0.6,0–2,1.4,Internacional
+396,2023-11-29,Flamengo,1.0,0–3,1.2,Atlético Mineiro
+397,2023-11-29,Bahia,0.9,0–1,1.0,São Paulo
+398,2023-11-28,Vasco da Gama,1.4,2–4,1.4,Corinthians
+399,2023-11-30,Grêmio,1.1,2–1,0.6,Goiás
+400,2023-11-30,Cruzeiro,3.6,1–1,1.0,Ath Paranaense
+401,2023-11-30,Bragantino,1.5,1–2,0.7,Fortaleza
+402,2023-11-29,Palmeiras,3.2,4–0,0.1,América (MG)
+403,2023-11-29,Coritiba,1.7,1–1,2.0,Botafogo (RJ)
+405,2023-12-02,Corinthians,1.8,1–2,1.0,Internacional
+406,2023-12-03,Flamengo,1.5,2–1,0.8,Cuiabá
+407,2023-12-03,Palmeiras,2.0,1–0,0.3,Fluminense
+408,2023-12-03,Grêmio,0.8,1–0,0.8,Vasco da Gama
+409,2023-12-03,Ath Paranaense,1.0,3–0,0.7,Santos
+410,2023-12-03,América (MG),1.2,3–2,3.7,Bahia
+411,2023-12-03,Bragantino,2.1,1–0,0.3,Coritiba
+412,2023-12-03,Botafogo (RJ),1.0,0–0,0.9,Cruzeiro
+413,2023-12-03,Fortaleza,1.2,1–0,0.3,Goiás
+414,2023-12-02,Atlético Mineiro,0.8,2–1,1.9,São Paulo
+416,2023-12-06,Goiás,0.9,1–0,0.9,América (MG)
+417,2023-12-06,Cuiabá,2.4,3–0,1.0,Ath Paranaense
+418,2023-12-06,Santos,1.0,1–2,1.2,Fortaleza
+419,2023-12-06,Bahia,1.4,4–1,1.1,Atlético Mineiro
+420,2023-12-06,Coritiba,0.6,0–2,0.9,Corinthians
+421,2023-12-06,Fluminense,2.4,2–3,2.4,Grêmio
+422,2023-12-06,São Paulo,0.5,1–0,0.4,Flamengo
+423,2023-12-06,Cruzeiro,1.6,1–1,1.4,Palmeiras
+424,2023-12-06,Internacional,1.2,3–1,0.4,Botafogo (RJ)
+425,2023-12-06,Vasco da Gama,1.6,2–1,0.8,Bragantino
